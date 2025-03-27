@@ -5,220 +5,208 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇷🇺 俄罗斯-莫斯科-F2-001, server: 46.17.43.122, port: 22031, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇨🇦 XC-CAN, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇭🇰 香港, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国 专线NO2, server: xdd.dashuai.cyou, port: 45075, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇯🇵 日本03-1B, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇬🇧 英国1, server: haa.dashuai.cyou, port: 45066, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇲🇾 马来西亚专线NO1, server: haa.dashuai.cyou, port: 45058, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 中国-香港-F3-001, server: 212.192.13.68, port: 23030, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇺🇸 美国 纽约01-1A, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇭🇰 香港01-1B, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇨🇳 台湾01-1B, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇯🇵 日本NO.1, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇫🇷 法国2, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇭 泰国NO1, server: haa.dashuai.cyou, port: 45060, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: X8-RSL, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇺🇸 美国-纽约-F2-001, server: 207.90.237.179, port: 22002, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇯🇵 日本03-1A, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇨🇳 台湾1, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇳 台湾01-1A, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇺🇸 美国-拉斯维加斯-001, server: biazh.mmzhk.website, port: 443, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: biazh.mmzhk.website}}, udp: true}
-  - {name: 🇯🇵 日本02-1A, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇯🇵 日本01-1A, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇭🇰 中国-香港-F2-001, server: 212.192.12.73, port: 22030, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇫🇷 法国1, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国01-免费, server: us01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 71eafd2c-d0c4-47dc-a651-104f775f5497, alterId: 0, cipher: auto, tls: true, servername: us01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: us01.sh-cloudflare.sbs}}, udp: true}
-  - {name: 🇸🇬 新加坡NO.2, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇳 台湾 1-1A, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇭🇰 中国-香港-F1-001, server: 212.192.12.56, port: 21030, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇸🇬 新加坡西部, server: westsg2-ddns.oraclenat.cc, port: 23452, type: vmess, uuid: 0ee30465-43aa-465e-8a29-4356ca2eeaf0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: westsg2-ddns.oraclenat.cc}}, udp: true}
-  - {name: 🇨🇳 台湾2, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 香港02-1B, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇦🇺 澳大利亚原生2, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国 纽约01-1B, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇭🇰 香港01-1A, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇲🇾 马来西亚专线NO2, server: xdd.dashuai.cyou, port: 45059, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇮🇳 印度2, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇬🇧 英国2, server: xdd.dashuai.cyou, port: 45067, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇩🇪 德国, server: freeyx.cloudflare88.eu.org, port: 443, type: vmess, uuid: 0ee30465-43aa-465e-8a29-4356ca2eeaf0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: go.daluquan.top}}, udp: true}
-  - {name: 🇯🇵 日本02-1B, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇸🇬 新加坡NO.1, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国-纽约-F3-001, server: 207.90.237.96, port: 23011, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇭🇰 香港02-1A, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇯🇵 日本04-1B, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇺🇸 美国 纽约2-1A, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇺🇸 美国-纽约-F1-001, server: 207.90.236.21, port: 21011, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇯🇵 日本NO.2, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇭 泰国NO2, server: xdd.dashuai.cyou, port: 45061, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国 纽约2-1B, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇦🇺 澳大利亚原生1, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇩🇪 德国01-免费, server: de01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 71eafd2c-d0c4-47dc-a651-104f775f5497, alterId: 0, cipher: auto, tls: true, servername: de01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: de01.sh-cloudflare.sbs}}, udp: true}
-  - {name: 🇯🇵 日本01-1B, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇯🇵 日本04-1A, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇺🇸 美国NO.2, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇳 台湾 1-1B, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
-  - {name: 🇨🇦 加拿大1, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国-纽约-001, server: 207.90.238.136, port: 20030, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇷🇺 俄罗斯-莫斯科-F1-001, server: 176.32.35.148, port: 21026, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇮🇳 印度1, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国, server: phx-plus-1ddns.faforex.eu.org, port: 23451, type: vmess, uuid: 0ee30465-43aa-465e-8a29-4356ca2eeaf0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: phx-plus-1ddns.faforex.eu.org}}, udp: true}
-  - {name: 🇨🇦 加拿大2, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇦 加拿大-多伦多-001, server: 50.114.177.234, port: 20031, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇺🇸 美国NO.1, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 香港03-1A, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: a9271b80-52af-4a67-b462-168c09f1d16b, udp: true}
-  - {name: 🇭🇰 香港NO.2, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国 专线NO1, server: haa.dashuai.cyou, port: 45076, type: vmess, uuid: 6e987272-3116-4fb6-ae08-43a6c7469fb9, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇩🇪 德国法兰克福, server: frankfurt.faforex.eu.org, port: 23451, type: vmess, uuid: 0ee30465-43aa-465e-8a29-4356ca2eeaf0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/itdog?ed=2560", headers: {Host: us-new03.daluquan.top}}, udp: true}
-  - {name: 🇷🇺 俄罗斯-莫斯科-F3-001, server: 195.133.5.127, port: 23030, type: vmess, uuid: 0fc1cf89-f133-46e0-8b53-745cc50b9c0e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇭🇰 香港03-1B, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 7cbb4703-53cd-4b9b-8017-ba506a30e27a, udp: true}
+  - {name: 🇺🇸 美国-纽约-001, server: 207.90.238.136, port: 20030, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 美国 纽约01-1A, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇺🇸 美国01-免费, server: us01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 56b59a38-02c6-4ed9-a601-8ad7dd5fca8a, alterId: 0, cipher: auto, tls: true, servername: us01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: us01.sh-cloudflare.sbs}}, udp: true}
+  - {name: 🇺🇸 美国NO.2, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 中国-香港-F1-001, server: 212.192.12.56, port: 21031, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: XX-LAS, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇯🇵 日本03-1B, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇺🇸 美国 纽约2-1B, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇭🇰 中国-香港-F3-001, server: 212.192.13.68, port: 23031, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇯🇵 日本02-1B, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇷🇺 俄罗斯-莫斯科-F3-001, server: 195.133.5.127, port: 23031, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇯🇵 日本NO.1, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇦🇺 澳大利亚原生2, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇺🇸 美国 纽约2-1A, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇨🇦 加拿大2, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇺🇸 美国-拉斯维加斯-001, server: biazh.mmzhk.website, port: 443, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: biazh.mmzhk.website}}, udp: true}
+  - {name: 🇨🇳 台湾01-1A, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇺🇸 美国 纽约01-1B, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇹🇭 泰国NO2, server: xdd.dashuai.cyou, port: 45061, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 中国-香港-F2-001, server: 212.192.12.73, port: 22031, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇦🇺 澳大利亚原生1, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇫🇷 法国1, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇺🇸 美国-纽约-F1-001, server: 207.90.236.21, port: 21011, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇬🇧 英国2, server: xdd.dashuai.cyou, port: 45067, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇩🇪 德国01-免费, server: de01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 56b59a38-02c6-4ed9-a601-8ad7dd5fca8a, alterId: 0, cipher: auto, tls: true, servername: de01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: de01.sh-cloudflare.sbs}}, udp: true}
+  - {name: 🇨🇳 台湾01-1B, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇲🇾 马来西亚专线NO2, server: xdd.dashuai.cyou, port: 45059, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇨🇳 台湾1, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 香港02-1B, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇭🇰 香港NO.2, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇸🇬 新加坡NO.1, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 香港03-1A, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇮🇳 印度1, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇬🇧 英国1, server: haa.dashuai.cyou, port: 45066, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇸🇬 新加坡NO.2, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 日本03-1A, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇰🇷 韩国 专线NO1, server: haa.dashuai.cyou, port: 45076, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国 专线NO2, server: xdd.dashuai.cyou, port: 45075, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇫🇷 法国2, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇮🇳 印度2, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇷🇺 俄罗斯-莫斯科-F2-001, server: 46.17.43.122, port: 22031, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇯🇵 日本04-1B, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇭🇰 香港01-1B, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇨🇳 台湾 1-1A, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇭🇰 香港03-1B, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇹🇭 泰国NO1, server: haa.dashuai.cyou, port: 45060, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 日本NO.2, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇺🇸 美国NO.1, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 日本01-1B, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇯🇵 日本02-1A, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇯🇵 日本04-1A, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇭🇰 香港, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: X2-XRQ, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇯🇵 日本01-1A, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇺🇸 美国-纽约-F3-001, server: 207.90.237.96, port: 23011, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇨🇳 台湾2, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 香港02-1A, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇲🇾 马来西亚专线NO1, server: haa.dashuai.cyou, port: 45058, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇨🇦 加拿大-多伦多-001, server: 141.195.112.33, port: 20032, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇨🇦 加拿大1, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: ad7f4a4a-79a7-4f1f-ad20-56d15358c818, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇷🇺 俄罗斯-莫斯科-F1-001, server: 176.32.35.148, port: 21031, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇭🇰 香港01-1A, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 9b58db83-ab5f-4774-aab7-05df1a55147b, udp: true}
+  - {name: 🇨🇳 台湾 1-1B, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 7523a834-1a3f-4c27-a34c-0b50e5f424bf, udp: true}
+  - {name: 🇺🇸 美国-纽约-F2-001, server: 207.90.237.179, port: 22002, type: vmess, uuid: 41d38c56-3388-4cbd-b005-b6d6fe2b1133, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
 proxy-groups:
   - name: 手动切换
     type: select
     proxies:
-      - 🇷🇺 俄罗斯-莫斯科-F2-001
-      - 🇨🇦 XC-CAN
-      - 🇭🇰 香港
-      - 🇰🇷 韩国 专线NO2
-      - 🇯🇵 日本03-1B
-      - 🇬🇧 英国1
-      - 🇲🇾 马来西亚专线NO1
-      - 🇭🇰 中国-香港-F3-001
-      - 🇺🇸 美国 纽约01-1A
-      - 🇭🇰 香港01-1B
-      - 🇨🇳 台湾01-1B
-      - 🇯🇵 日本NO.1
-      - 🇫🇷 法国2
-      - 🇹🇭 泰国NO1
-      - X8-RSL
-      - 🇺🇸 美国-纽约-F2-001
-      - 🇯🇵 日本03-1A
-      - 🇨🇳 台湾1
-      - 🇨🇳 台湾01-1A
-      - 🇺🇸 美国-拉斯维加斯-001
-      - 🇯🇵 日本02-1A
-      - 🇯🇵 日本01-1A
-      - 🇭🇰 中国-香港-F2-001
-      - 🇫🇷 法国1
-      - 🇺🇸 美国01-免费
-      - 🇸🇬 新加坡NO.2
-      - 🇨🇳 台湾 1-1A
-      - 🇭🇰 中国-香港-F1-001
-      - 🇸🇬 新加坡西部
-      - 🇨🇳 台湾2
-      - 🇭🇰 香港02-1B
-      - 🇦🇺 澳大利亚原生2
-      - 🇺🇸 美国 纽约01-1B
-      - 🇭🇰 香港01-1A
-      - 🇲🇾 马来西亚专线NO2
-      - 🇮🇳 印度2
-      - 🇬🇧 英国2
-      - 🇩🇪 德国
-      - 🇯🇵 日本02-1B
-      - 🇸🇬 新加坡NO.1
-      - 🇺🇸 美国-纽约-F3-001
-      - 🇭🇰 香港02-1A
-      - 🇯🇵 日本04-1B
-      - 🇺🇸 美国 纽约2-1A
-      - 🇺🇸 美国-纽约-F1-001
-      - 🇯🇵 日本NO.2
-      - 🇹🇭 泰国NO2
-      - 🇺🇸 美国 纽约2-1B
-      - 🇦🇺 澳大利亚原生1
-      - 🇩🇪 德国01-免费
-      - 🇯🇵 日本01-1B
-      - 🇯🇵 日本04-1A
-      - 🇺🇸 美国NO.2
-      - 🇨🇳 台湾 1-1B
-      - 🇨🇦 加拿大1
       - 🇺🇸 美国-纽约-001
-      - 🇷🇺 俄罗斯-莫斯科-F1-001
-      - 🇮🇳 印度1
-      - 🇺🇸 美国
-      - 🇨🇦 加拿大2
-      - 🇨🇦 加拿大-多伦多-001
-      - 🇺🇸 美国NO.1
-      - 🇭🇰 香港03-1A
-      - 🇭🇰 香港NO.2
-      - 🇰🇷 韩国 专线NO1
-      - 🇩🇪 德国法兰克福
+      - 🇺🇸 美国 纽约01-1A
+      - 🇺🇸 美国01-免费
+      - 🇺🇸 美国NO.2
+      - 🇭🇰 中国-香港-F1-001
+      - XX-LAS
+      - 🇯🇵 日本03-1B
+      - 🇺🇸 美国 纽约2-1B
+      - 🇭🇰 中国-香港-F3-001
+      - 🇯🇵 日本02-1B
       - 🇷🇺 俄罗斯-莫斯科-F3-001
+      - 🇯🇵 日本NO.1
+      - 🇦🇺 澳大利亚原生2
+      - 🇺🇸 美国 纽约2-1A
+      - 🇨🇦 加拿大2
+      - 🇺🇸 美国-拉斯维加斯-001
+      - 🇨🇳 台湾01-1A
+      - 🇺🇸 美国 纽约01-1B
+      - 🇹🇭 泰国NO2
+      - 🇭🇰 中国-香港-F2-001
+      - 🇦🇺 澳大利亚原生1
+      - 🇫🇷 法国1
+      - 🇺🇸 美国-纽约-F1-001
+      - 🇬🇧 英国2
+      - 🇩🇪 德国01-免费
+      - 🇨🇳 台湾01-1B
+      - 🇲🇾 马来西亚专线NO2
+      - 🇨🇳 台湾1
+      - 🇭🇰 香港02-1B
+      - 🇭🇰 香港NO.2
+      - 🇸🇬 新加坡NO.1
+      - 🇭🇰 香港03-1A
+      - 🇮🇳 印度1
+      - 🇬🇧 英国1
+      - 🇸🇬 新加坡NO.2
+      - 🇯🇵 日本03-1A
+      - 🇰🇷 韩国 专线NO1
+      - 🇰🇷 韩国 专线NO2
+      - 🇫🇷 法国2
+      - 🇮🇳 印度2
+      - 🇷🇺 俄罗斯-莫斯科-F2-001
+      - 🇯🇵 日本04-1B
+      - 🇭🇰 香港01-1B
+      - 🇨🇳 台湾 1-1A
       - 🇭🇰 香港03-1B
+      - 🇹🇭 泰国NO1
+      - 🇯🇵 日本NO.2
+      - 🇺🇸 美国NO.1
+      - 🇯🇵 日本01-1B
+      - 🇯🇵 日本02-1A
+      - 🇯🇵 日本04-1A
+      - 🇭🇰 香港
+      - X2-XRQ
+      - 🇯🇵 日本01-1A
+      - 🇺🇸 美国-纽约-F3-001
+      - 🇨🇳 台湾2
+      - 🇭🇰 香港02-1A
+      - 🇲🇾 马来西亚专线NO1
+      - 🇨🇦 加拿大-多伦多-001
+      - 🇨🇦 加拿大1
+      - 🇷🇺 俄罗斯-莫斯科-F1-001
+      - 🇭🇰 香港01-1A
+      - 🇨🇳 台湾 1-1B
+      - 🇺🇸 美国-纽约-F2-001
   - name: 自动选择
     type: url-test
     url: https://www.google.com/favicon.ico
     interval: 300
     tolerance: 50
     proxies:
-      - 🇷🇺 俄罗斯-莫斯科-F2-001
-      - 🇨🇦 XC-CAN
-      - 🇭🇰 香港
-      - 🇰🇷 韩国 专线NO2
-      - 🇯🇵 日本03-1B
-      - 🇬🇧 英国1
-      - 🇲🇾 马来西亚专线NO1
-      - 🇭🇰 中国-香港-F3-001
-      - 🇺🇸 美国 纽约01-1A
-      - 🇭🇰 香港01-1B
-      - 🇨🇳 台湾01-1B
-      - 🇯🇵 日本NO.1
-      - 🇫🇷 法国2
-      - 🇹🇭 泰国NO1
-      - X8-RSL
-      - 🇺🇸 美国-纽约-F2-001
-      - 🇯🇵 日本03-1A
-      - 🇨🇳 台湾1
-      - 🇨🇳 台湾01-1A
-      - 🇺🇸 美国-拉斯维加斯-001
-      - 🇯🇵 日本02-1A
-      - 🇯🇵 日本01-1A
-      - 🇭🇰 中国-香港-F2-001
-      - 🇫🇷 法国1
-      - 🇺🇸 美国01-免费
-      - 🇸🇬 新加坡NO.2
-      - 🇨🇳 台湾 1-1A
-      - 🇭🇰 中国-香港-F1-001
-      - 🇸🇬 新加坡西部
-      - 🇨🇳 台湾2
-      - 🇭🇰 香港02-1B
-      - 🇦🇺 澳大利亚原生2
-      - 🇺🇸 美国 纽约01-1B
-      - 🇭🇰 香港01-1A
-      - 🇲🇾 马来西亚专线NO2
-      - 🇮🇳 印度2
-      - 🇬🇧 英国2
-      - 🇩🇪 德国
-      - 🇯🇵 日本02-1B
-      - 🇸🇬 新加坡NO.1
-      - 🇺🇸 美国-纽约-F3-001
-      - 🇭🇰 香港02-1A
-      - 🇯🇵 日本04-1B
-      - 🇺🇸 美国 纽约2-1A
-      - 🇺🇸 美国-纽约-F1-001
-      - 🇯🇵 日本NO.2
-      - 🇹🇭 泰国NO2
-      - 🇺🇸 美国 纽约2-1B
-      - 🇦🇺 澳大利亚原生1
-      - 🇩🇪 德国01-免费
-      - 🇯🇵 日本01-1B
-      - 🇯🇵 日本04-1A
-      - 🇺🇸 美国NO.2
-      - 🇨🇳 台湾 1-1B
-      - 🇨🇦 加拿大1
       - 🇺🇸 美国-纽约-001
-      - 🇷🇺 俄罗斯-莫斯科-F1-001
-      - 🇮🇳 印度1
-      - 🇺🇸 美国
-      - 🇨🇦 加拿大2
-      - 🇨🇦 加拿大-多伦多-001
-      - 🇺🇸 美国NO.1
-      - 🇭🇰 香港03-1A
-      - 🇭🇰 香港NO.2
-      - 🇰🇷 韩国 专线NO1
-      - 🇩🇪 德国法兰克福
+      - 🇺🇸 美国 纽约01-1A
+      - 🇺🇸 美国01-免费
+      - 🇺🇸 美国NO.2
+      - 🇭🇰 中国-香港-F1-001
+      - XX-LAS
+      - 🇯🇵 日本03-1B
+      - 🇺🇸 美国 纽约2-1B
+      - 🇭🇰 中国-香港-F3-001
+      - 🇯🇵 日本02-1B
       - 🇷🇺 俄罗斯-莫斯科-F3-001
+      - 🇯🇵 日本NO.1
+      - 🇦🇺 澳大利亚原生2
+      - 🇺🇸 美国 纽约2-1A
+      - 🇨🇦 加拿大2
+      - 🇺🇸 美国-拉斯维加斯-001
+      - 🇨🇳 台湾01-1A
+      - 🇺🇸 美国 纽约01-1B
+      - 🇹🇭 泰国NO2
+      - 🇭🇰 中国-香港-F2-001
+      - 🇦🇺 澳大利亚原生1
+      - 🇫🇷 法国1
+      - 🇺🇸 美国-纽约-F1-001
+      - 🇬🇧 英国2
+      - 🇩🇪 德国01-免费
+      - 🇨🇳 台湾01-1B
+      - 🇲🇾 马来西亚专线NO2
+      - 🇨🇳 台湾1
+      - 🇭🇰 香港02-1B
+      - 🇭🇰 香港NO.2
+      - 🇸🇬 新加坡NO.1
+      - 🇭🇰 香港03-1A
+      - 🇮🇳 印度1
+      - 🇬🇧 英国1
+      - 🇸🇬 新加坡NO.2
+      - 🇯🇵 日本03-1A
+      - 🇰🇷 韩国 专线NO1
+      - 🇰🇷 韩国 专线NO2
+      - 🇫🇷 法国2
+      - 🇮🇳 印度2
+      - 🇷🇺 俄罗斯-莫斯科-F2-001
+      - 🇯🇵 日本04-1B
+      - 🇭🇰 香港01-1B
+      - 🇨🇳 台湾 1-1A
       - 🇭🇰 香港03-1B
+      - 🇹🇭 泰国NO1
+      - 🇯🇵 日本NO.2
+      - 🇺🇸 美国NO.1
+      - 🇯🇵 日本01-1B
+      - 🇯🇵 日本02-1A
+      - 🇯🇵 日本04-1A
+      - 🇭🇰 香港
+      - X2-XRQ
+      - 🇯🇵 日本01-1A
+      - 🇺🇸 美国-纽约-F3-001
+      - 🇨🇳 台湾2
+      - 🇭🇰 香港02-1A
+      - 🇲🇾 马来西亚专线NO1
+      - 🇨🇦 加拿大-多伦多-001
+      - 🇨🇦 加拿大1
+      - 🇷🇺 俄罗斯-莫斯科-F1-001
+      - 🇭🇰 香港01-1A
+      - 🇨🇳 台湾 1-1B
+      - 🇺🇸 美国-纽约-F2-001
   - name: 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -226,199 +214,189 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇷🇺 俄罗斯-莫斯科-F2-001
-      - 🇨🇦 XC-CAN
-      - 🇭🇰 香港
-      - 🇰🇷 韩国 专线NO2
-      - 🇯🇵 日本03-1B
-      - 🇬🇧 英国1
-      - 🇲🇾 马来西亚专线NO1
-      - 🇭🇰 中国-香港-F3-001
-      - 🇺🇸 美国 纽约01-1A
-      - 🇭🇰 香港01-1B
-      - 🇨🇳 台湾01-1B
-      - 🇯🇵 日本NO.1
-      - 🇫🇷 法国2
-      - 🇹🇭 泰国NO1
-      - X8-RSL
-      - 🇺🇸 美国-纽约-F2-001
-      - 🇯🇵 日本03-1A
-      - 🇨🇳 台湾1
-      - 🇨🇳 台湾01-1A
-      - 🇺🇸 美国-拉斯维加斯-001
-      - 🇯🇵 日本02-1A
-      - 🇯🇵 日本01-1A
-      - 🇭🇰 中国-香港-F2-001
-      - 🇫🇷 法国1
-      - 🇺🇸 美国01-免费
-      - 🇸🇬 新加坡NO.2
-      - 🇨🇳 台湾 1-1A
-      - 🇭🇰 中国-香港-F1-001
-      - 🇸🇬 新加坡西部
-      - 🇨🇳 台湾2
-      - 🇭🇰 香港02-1B
-      - 🇦🇺 澳大利亚原生2
-      - 🇺🇸 美国 纽约01-1B
-      - 🇭🇰 香港01-1A
-      - 🇲🇾 马来西亚专线NO2
-      - 🇮🇳 印度2
-      - 🇬🇧 英国2
-      - 🇩🇪 德国
-      - 🇯🇵 日本02-1B
-      - 🇸🇬 新加坡NO.1
-      - 🇺🇸 美国-纽约-F3-001
-      - 🇭🇰 香港02-1A
-      - 🇯🇵 日本04-1B
-      - 🇺🇸 美国 纽约2-1A
-      - 🇺🇸 美国-纽约-F1-001
-      - 🇯🇵 日本NO.2
-      - 🇹🇭 泰国NO2
-      - 🇺🇸 美国 纽约2-1B
-      - 🇦🇺 澳大利亚原生1
-      - 🇩🇪 德国01-免费
-      - 🇯🇵 日本01-1B
-      - 🇯🇵 日本04-1A
-      - 🇺🇸 美国NO.2
-      - 🇨🇳 台湾 1-1B
-      - 🇨🇦 加拿大1
       - 🇺🇸 美国-纽约-001
-      - 🇷🇺 俄罗斯-莫斯科-F1-001
-      - 🇮🇳 印度1
-      - 🇺🇸 美国
-      - 🇨🇦 加拿大2
-      - 🇨🇦 加拿大-多伦多-001
-      - 🇺🇸 美国NO.1
-      - 🇭🇰 香港03-1A
-      - 🇭🇰 香港NO.2
-      - 🇰🇷 韩国 专线NO1
-      - 🇩🇪 德国法兰克福
+      - 🇺🇸 美国 纽约01-1A
+      - 🇺🇸 美国01-免费
+      - 🇺🇸 美国NO.2
+      - 🇭🇰 中国-香港-F1-001
+      - XX-LAS
+      - 🇯🇵 日本03-1B
+      - 🇺🇸 美国 纽约2-1B
+      - 🇭🇰 中国-香港-F3-001
+      - 🇯🇵 日本02-1B
       - 🇷🇺 俄罗斯-莫斯科-F3-001
+      - 🇯🇵 日本NO.1
+      - 🇦🇺 澳大利亚原生2
+      - 🇺🇸 美国 纽约2-1A
+      - 🇨🇦 加拿大2
+      - 🇺🇸 美国-拉斯维加斯-001
+      - 🇨🇳 台湾01-1A
+      - 🇺🇸 美国 纽约01-1B
+      - 🇹🇭 泰国NO2
+      - 🇭🇰 中国-香港-F2-001
+      - 🇦🇺 澳大利亚原生1
+      - 🇫🇷 法国1
+      - 🇺🇸 美国-纽约-F1-001
+      - 🇬🇧 英国2
+      - 🇩🇪 德国01-免费
+      - 🇨🇳 台湾01-1B
+      - 🇲🇾 马来西亚专线NO2
+      - 🇨🇳 台湾1
+      - 🇭🇰 香港02-1B
+      - 🇭🇰 香港NO.2
+      - 🇸🇬 新加坡NO.1
+      - 🇭🇰 香港03-1A
+      - 🇮🇳 印度1
+      - 🇬🇧 英国1
+      - 🇸🇬 新加坡NO.2
+      - 🇯🇵 日本03-1A
+      - 🇰🇷 韩国 专线NO1
+      - 🇰🇷 韩国 专线NO2
+      - 🇫🇷 法国2
+      - 🇮🇳 印度2
+      - 🇷🇺 俄罗斯-莫斯科-F2-001
+      - 🇯🇵 日本04-1B
+      - 🇭🇰 香港01-1B
+      - 🇨🇳 台湾 1-1A
       - 🇭🇰 香港03-1B
+      - 🇹🇭 泰国NO1
+      - 🇯🇵 日本NO.2
+      - 🇺🇸 美国NO.1
+      - 🇯🇵 日本01-1B
+      - 🇯🇵 日本02-1A
+      - 🇯🇵 日本04-1A
+      - 🇭🇰 香港
+      - X2-XRQ
+      - 🇯🇵 日本01-1A
+      - 🇺🇸 美国-纽约-F3-001
+      - 🇨🇳 台湾2
+      - 🇭🇰 香港02-1A
+      - 🇲🇾 马来西亚专线NO1
+      - 🇨🇦 加拿大-多伦多-001
+      - 🇨🇦 加拿大1
+      - 🇷🇺 俄罗斯-莫斯科-F1-001
+      - 🇭🇰 香港01-1A
+      - 🇨🇳 台湾 1-1B
+      - 🇺🇸 美国-纽约-F2-001
   - name: 中国节点
     type: select
     proxies:
-      - 🇭🇰 香港
+      - 🇭🇰 中国-香港-F1-001
       - 🇭🇰 中国-香港-F3-001
-      - 🇭🇰 香港01-1B
-      - 🇨🇳 台湾01-1B
-      - 🇨🇳 台湾1
       - 🇨🇳 台湾01-1A
       - 🇭🇰 中国-香港-F2-001
-      - 🇨🇳 台湾 1-1A
-      - 🇭🇰 中国-香港-F1-001
-      - 🇨🇳 台湾2
+      - 🇨🇳 台湾01-1B
+      - 🇨🇳 台湾1
       - 🇭🇰 香港02-1B
-      - 🇭🇰 香港01-1A
-      - 🇭🇰 香港02-1A
-      - 🇨🇳 台湾 1-1B
-      - 🇭🇰 香港03-1A
       - 🇭🇰 香港NO.2
+      - 🇭🇰 香港03-1A
+      - 🇭🇰 香港01-1B
+      - 🇨🇳 台湾 1-1A
       - 🇭🇰 香港03-1B
+      - 🇭🇰 香港
+      - 🇨🇳 台湾2
+      - 🇭🇰 香港02-1A
+      - 🇭🇰 香港01-1A
+      - 🇨🇳 台湾 1-1B
   - name: 日本节点
     type: select
     proxies:
       - 🇯🇵 日本03-1B
+      - 🇯🇵 日本02-1B
       - 🇯🇵 日本NO.1
       - 🇯🇵 日本03-1A
-      - 🇯🇵 日本02-1A
-      - 🇯🇵 日本01-1A
-      - 🇯🇵 日本02-1B
       - 🇯🇵 日本04-1B
       - 🇯🇵 日本NO.2
       - 🇯🇵 日本01-1B
+      - 🇯🇵 日本02-1A
       - 🇯🇵 日本04-1A
+      - 🇯🇵 日本01-1A
   - name: 新加坡节点
     type: select
     proxies:
-      - 🇸🇬 新加坡NO.2
-      - 🇸🇬 新加坡西部
       - 🇸🇬 新加坡NO.1
+      - 🇸🇬 新加坡NO.2
   - name: 美国节点
     type: url-test
     url: https://www.google.com/favicon.ico
     interval: 300
     tolerance: 150
     proxies:
-      - 🇺🇸 美国 纽约01-1A
-      - 🇺🇸 美国-纽约-F2-001
-      - 🇺🇸 美国-拉斯维加斯-001
-      - 🇺🇸 美国01-免费
-      - 🇺🇸 美国 纽约01-1B
-      - 🇺🇸 美国-纽约-F3-001
-      - 🇺🇸 美国 纽约2-1A
-      - 🇺🇸 美国-纽约-F1-001
-      - 🇺🇸 美国 纽约2-1B
-      - 🇺🇸 美国NO.2
       - 🇺🇸 美国-纽约-001
-      - 🇺🇸 美国
+      - 🇺🇸 美国 纽约01-1A
+      - 🇺🇸 美国01-免费
+      - 🇺🇸 美国NO.2
+      - 🇺🇸 美国 纽约2-1B
+      - 🇺🇸 美国 纽约2-1A
+      - 🇺🇸 美国-拉斯维加斯-001
+      - 🇺🇸 美国 纽约01-1B
+      - 🇺🇸 美国-纽约-F1-001
       - 🇺🇸 美国NO.1
+      - 🇺🇸 美国-纽约-F3-001
+      - 🇺🇸 美国-纽约-F2-001
 rules:
-  - IP-CIDR,46.17.43.122/32,DIRECT,no-resolve
-  - DOMAIN,hk.kfsldflk.xyz,DIRECT
-  - DOMAIN,xg.dashuai.cyou,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - IP-CIDR,207.90.238.136/32,DIRECT,no-resolve
   - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,haa.dashuai.cyou,DIRECT
-  - DOMAIN,haa.dashuai.cyou,DIRECT
+  - DOMAIN,us01.sh-cloudflare.sbs,DIRECT
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - IP-CIDR,212.192.12.56/32,DIRECT,no-resolve
+  - DOMAIN,hk.kfsldflk.xyz,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
   - IP-CIDR,212.192.13.68/32,DIRECT,no-resolve
   - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
+  - IP-CIDR,195.133.5.127/32,DIRECT,no-resolve
   - DOMAIN,haa.dashuai.cyou,DIRECT
   - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,haa.dashuai.cyou,DIRECT
-  - DOMAIN,hk.kfsldflk.xyz,DIRECT
-  - IP-CIDR,207.90.237.179/32,DIRECT,no-resolve
   - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,haa.dashuai.cyou,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
   - DOMAIN,biazh.mmzhk.website,DIRECT
   - DOMAIN,gy.666666222.shop,DIRECT
   - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
   - IP-CIDR,212.192.12.73/32,DIRECT,no-resolve
   - DOMAIN,haa.dashuai.cyou,DIRECT
-  - DOMAIN,us01.sh-cloudflare.sbs,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
-  - IP-CIDR,212.192.12.56/32,DIRECT,no-resolve
-  - DOMAIN,westsg2-ddns.oraclenat.cc,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,freeyx.cloudflare88.eu.org,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
   - DOMAIN,haa.dashuai.cyou,DIRECT
-  - IP-CIDR,207.90.237.96/32,DIRECT,no-resolve
-  - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
   - IP-CIDR,207.90.236.21/32,DIRECT,no-resolve
   - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,haa.dashuai.cyou,DIRECT
   - DOMAIN,de01.sh-cloudflare.sbs,DIRECT
   - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - DOMAIN,haa.dashuai.cyou,DIRECT
   - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - DOMAIN,haa.dashuai.cyou,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,haa.dashuai.cyou,DIRECT
+  - DOMAIN,haa.dashuai.cyou,DIRECT
   - DOMAIN,xdd.dashuai.cyou,DIRECT
   - DOMAIN,gy.666666222.shop,DIRECT
   - DOMAIN,haa.dashuai.cyou,DIRECT
-  - IP-CIDR,207.90.238.136/32,DIRECT,no-resolve
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - IP-CIDR,46.17.43.122/32,DIRECT,no-resolve
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,haa.dashuai.cyou,DIRECT
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - DOMAIN,haa.dashuai.cyou,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,xg.dashuai.cyou,DIRECT
+  - DOMAIN,hk.kfsldflk.xyz,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - IP-CIDR,207.90.237.96/32,DIRECT,no-resolve
+  - DOMAIN,xdd.dashuai.cyou,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,haa.dashuai.cyou,DIRECT
+  - IP-CIDR,141.195.112.33/32,DIRECT,no-resolve
+  - DOMAIN,haa.dashuai.cyou,DIRECT
   - IP-CIDR,176.32.35.148/32,DIRECT,no-resolve
-  - DOMAIN,haa.dashuai.cyou,DIRECT
-  - DOMAIN,phx-plus-1ddns.faforex.eu.org,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - IP-CIDR,50.114.177.234/32,DIRECT,no-resolve
-  - DOMAIN,haa.dashuai.cyou,DIRECT
   - DOMAIN,gy.666666222.shop,DIRECT
-  - DOMAIN,xdd.dashuai.cyou,DIRECT
-  - DOMAIN,haa.dashuai.cyou,DIRECT
-  - DOMAIN,frankfurt.faforex.eu.org,DIRECT
-  - IP-CIDR,195.133.5.127/32,DIRECT,no-resolve
   - DOMAIN,gy.666666222.shop,DIRECT
+  - IP-CIDR,207.90.237.179/32,DIRECT,no-resolve
   - MATCH,手动切换

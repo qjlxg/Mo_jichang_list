@@ -1,714 +1,721 @@
-2025-04-02 03:27:09 collect.py [line:209] ERROR: cannot extract username and gist id due to invalid github gist link
-2025-04-02 03:27:09 collect.py [line:71] INFO: start checking whether existing subscriptions have expired
-2025-04-02 03:27:11 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [check_status] finished, count: 12, cost: 2.31s
-2025-04-02 03:27:11 collect.py [line:113] INFO: load exists subscription finished, count: 9
-2025-04-02 03:27:12 crawl.py [line:1430] INFO: [TelegramCrawl] starting crawl from telegram, channel: jichang_list, pages: 206
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4114
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4094
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4074
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4054
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4034
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4014
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3994
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3974
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3954
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3934
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3914
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3894
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3874
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3854
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3834
-2025-04-02 03:27:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3814
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3794
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3774
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3754
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3734
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3714
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3694
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3674
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3654
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3634
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3614
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3594
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3574
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3554
-2025-04-02 03:27:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3534
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3514
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3494
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3474
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3454
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3434
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3414
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3394
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3374
-2025-04-02 03:27:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3354
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3334
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3314
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3294
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3274
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3254
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3234
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3214
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3194
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3174
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3154
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3134
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3114
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3094
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3074
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3054
-2025-04-02 03:27:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3034
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3014
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2994
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2974
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2954
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2934
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2914
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2894
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2874
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2854
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2834
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2814
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2794
-2025-04-02 03:27:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2774
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2754
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2734
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2714
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2694
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2674
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2654
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2634
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2614
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2594
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2574
-2025-04-02 03:27:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2554
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2534
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2514
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2494
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2474
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2454
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2434
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2414
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2394
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2374
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2354
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2334
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2314
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2294
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2274
-2025-04-02 03:27:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2254
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2234
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2214
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2194
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2174
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2154
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2134
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2114
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2094
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2074
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2054
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2034
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2014
-2025-04-02 03:27:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1994
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1974
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1954
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1934
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1914
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1894
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1874
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1854
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1834
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1814
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1794
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1774
-2025-04-02 03:27:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1754
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1734
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1714
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1694
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1674
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1654
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1634
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1614
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1594
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1574
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1554
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1534
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1514
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1494
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1474
-2025-04-02 03:27:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1454
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1434
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1414
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1394
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1374
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1354
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1334
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1314
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1294
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1274
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1254
-2025-04-02 03:27:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1234
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1214
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1194
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1174
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1154
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1134
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1114
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1094
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1074
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1054
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1034
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1014
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=994
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=974
-2025-04-02 03:27:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=954
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=934
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=914
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=894
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=874
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=854
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=834
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=814
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=794
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=774
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=754
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=734
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=714
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=694
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=674
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=654
-2025-04-02 03:27:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=634
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=614
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=594
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=574
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=554
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=534
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=514
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=494
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=474
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=454
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=434
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=414
-2025-04-02 03:27:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=394
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=374
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=354
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=334
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=314
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=294
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=274
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=254
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=234
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=214
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=194
-2025-04-02 03:27:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=174
-2025-04-02 03:27:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=154
-2025-04-02 03:27:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=134
-2025-04-02 03:27:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=114
-2025-04-02 03:27:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=94
-2025-04-02 03:27:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=74
-2025-04-02 03:27:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=54
-2025-04-02 03:27:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=34
-2025-04-02 03:27:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=14
-2025-04-02 03:27:28 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [extract_airport_site] finished, count: 206, cost: 16.54s
-2025-04-02 03:27:35 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [get_redirect_url] finished, count: 12, cost: 6.40s
-2025-04-02 03:27:40 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [run_crawl] finished, count: 13, cost: 0.17s
-2025-04-02 03:27:40 crawl.py [line:1731] INFO: [AirPortCollector] fetched 5403 airport, start extracting real routing addresses
-2025-04-02 03:29:54 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [extract_backend_url] finished, count: 5403, cost: 134.54s
-2025-04-02 03:29:54 crawl.py [line:1743] INFO: [AirPortCollector] extract real base url finished, start to check it now
-2025-04-02 03:31:22 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [validate_domain] finished, count: 2298, cost: 87.67s
-2025-04-02 03:31:22 crawl.py [line:1755] INFO: [AirPortCollector] finished collect airport, availables: 231
-2025-04-02 03:31:22 collect.py [line:267] INFO: start generate subscribes information, tasks: 261
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[CN5vuLb4]	id=[1]	domain=[https://api.rss-nodes.site?url=aHR0cHM6Ly9kb2JjbG91ZC5jb20vYXBpL3YxL2NsaWVudC9zdWJzY3JpYmU]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[mGxLFEta]	id=[1]	domain=[http://sub.kjdjakskl.cyou]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[gJ6VF2MK]	id=[1]	domain=[https://ch.vfkum.website]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[8IxEOQVG]	id=[1]	domain=[https://5.44.251.106]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[kTqvu7LG]	id=[1]	domain=[https://ch.vfkum.website]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[aojRcpYz]	id=[1]	domain=[https://api.heima2u.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[blnRdkeF]	id=[1]	domain=[http://subssr.xfxvpn.me]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[EdQ4ryNB]	id=[1]	domain=[https://link06.shanhai.one]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ZjUJyH5B]	id=[1]	domain=[https://sub1.pingboy.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[4710167199:6699-da6h]	id=[1]	domain=[http://47.101.67.199:6699]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[subssrxfxvpnme-79ck]	id=[1]	domain=[http://subssr.xfxvpn.me]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[terfghtlldashuaius-g26h]	id=[1]	domain=[https://terfghtll.dashuai.us]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[544251106-0pys]	id=[1]	domain=[https://5.44.251.106]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[subflygfwtop-fujyz]	id=[1]	domain=[https://sub.flygfw.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[5125517339-kgf]	id=[1]	domain=[http://51.255.173.39]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[apiheima2ucom-iembo]	id=[1]	domain=[https://api.heima2u.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[sub1pingboytop-9trlp]	id=[1]	domain=[https://sub1.pingboy.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[apishanhaione-gtb]	id=[1]	domain=[https://api.shanhai.one]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[cloudjisubalive-xfsq1]	id=[1]	domain=[https://cloud.jisuba.live]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[bp123xyz-k90c4]	id=[1]	domain=[https://bp123.xyz]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xingcloudsxyz-8wne]	id=[1]	domain=[https://xingclouds.xyz]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xingcloudpwzvdcn-i9d]	id=[1]	domain=[https://xingcloud.pwzvd.cn]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[aimanmanme-xfy3]	id=[1]	domain=[https://aimanman.me]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[sjy001xyz-h7b3]	id=[1]	domain=[https://sjy001.xyz]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[cloudjsfxtech-mkhq]	id=[1]	domain=[https://cloud.jsfx.tech]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[cloudgougoulive-hwz]	id=[1]	domain=[https://cloud.gougou.live]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[tlnnmntgdadatop-0epog]	id=[1]	domain=[https://tlnnm.ntgdada.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xesal-9yv]	id=[1]	domain=[https://xes.al]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[10runvip-h1yiw]	id=[1]	domain=[https://10run.vip]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[hssl8088icu-fwekx]	id=[1]	domain=[https://hssl8088.icu]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[yihicloudtop-osq]	id=[1]	domain=[https://yihicloud.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xjyjctop-6wvf4]	id=[1]	domain=[https://xjyjc.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[nekrosus-7bj]	id=[1]	domain=[https://nekros.us]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[laosijicctop-0fzun]	id=[1]	domain=[https://laosijicc.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[pianyijichangcom-tx58]	id=[1]	domain=[https://pianyijichang.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[haitunyun1cfd-e182]	id=[1]	domain=[https://haitunyun1.cfd]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[chuifengjitop-inu]	id=[1]	domain=[https://chuifengji.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[haitunyun2cfd-amg1w]	id=[1]	domain=[https://haitunyun2.cfd]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[sytcloudtop-9wt4]	id=[1]	domain=[https://sytcloud.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wuxianjctop-bnmqy]	id=[1]	domain=[https://wuxianjc.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[cmyewwnucn-pnq]	id=[1]	domain=[https://cmy.ewwnu.cn]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xiaofeixiame-qt39k]	id=[1]	domain=[https://xiaofeixia.me]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[byyunduanjctop-y8gq]	id=[1]	domain=[https://by.yunduanjc.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[yunduanjctop-d7cni]	id=[1]	domain=[https://yunduanjc.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[kuailejcxyz-aqpm1]	id=[1]	domain=[https://kuailejc.xyz]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[changyouvpntop-8n5th]	id=[1]	domain=[https://changyouvpn.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[w02qytl2web01cc-lk415]	id=[1]	domain=[https://w02.qytl2web01.cc]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[kaikaixinxinme-ch8a]	id=[1]	domain=[https://kaikaixinxin.me]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[magicmsbs-9bt6]	id=[1]	domain=[https://magicm.sbs]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[magicmlink-w2zuf]	id=[1]	domain=[https://magicm.link]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[knkngtxytop-8t2z]	id=[1]	domain=[https://kn.kngtxy.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[magicmtop-l21vt]	id=[1]	domain=[https://magicm.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[666vxyz-3slh]	id=[1]	domain=[https://666v.xyz]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[magicmcc-yqe]	id=[1]	domain=[https://magicm.cc]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[magicmclick-2jt]	id=[1]	domain=[https://magicm.click]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[consoleveseaicom-wxjm]	id=[1]	domain=[https://console.veseai.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[dashminizzonline-4ml7]	id=[1]	domain=[https://dash.minizz.online]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xyznoseiseicom-jp63m]	id=[1]	domain=[https://xyz.noseisei.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[abcnoseiseicom-afj35]	id=[1]	domain=[https://abc.noseisei.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[passwalllink-lm05y]	id=[1]	domain=[https://passwall.link]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[zxcnoseiseicom-eu94g]	id=[1]	domain=[https://zxc.noseisei.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[bailiansite-17e]	id=[1]	domain=[https://bailian.site]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[dggidsdufcom-0u7dz]	id=[1]	domain=[https://dgg.idsduf.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ayousucc-sd0]	id=[1]	domain=[https://a.yousu.cc]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[cyousucc-gmv3d]	id=[1]	domain=[https://c.yousu.cc]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[byousucc-j8xu]	id=[1]	domain=[https://b.yousu.cc]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[surfgb8world-d59x]	id=[1]	domain=[https://surfgb8.world]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[vyyidsdufcom-l6fu]	id=[1]	domain=[http://vyy.idsduf.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwxbyunlive-x6o]	id=[1]	domain=[https://www.xbyun.live]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[thecomtoday-4sm]	id=[1]	domain=[https://thecom.today]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[panelmokupro-t4fa]	id=[1]	domain=[https://panel.moku.pro]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[chcukugwebsite-frwj4]	id=[1]	domain=[https://ch.cukug.website]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xmfwwwcc-3obj]	id=[1]	domain=[https://xmfwww.cc]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[rtxal-nwrq]	id=[1]	domain=[https://rtx.al]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[chlouwangzhiyuxyz-8qa]	id=[1]	domain=[https://ch.louwangzhiyu.xyz]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[zzzyouxuanwiki-i5b]	id=[1]	domain=[https://zzz.youxuan.wiki]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwjiasuniucom-75d]	id=[1]	domain=[https://www.jiasuniu.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[dddddsite-yfv17]	id=[1]	domain=[https://ddddd.site]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[1vyunyuntop-qhou]	id=[1]	domain=[https://1.vyunyun.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[mapleicu-a3tdm]	id=[1]	domain=[https://maple.icu]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xx-aiio-3f9m]	id=[1]	domain=[https://xx-ai.io]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwaaaspeedcc-5gc1]	id=[1]	domain=[https://www.aaaspeed.cc]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[zqjcorg-cbi]	id=[1]	domain=[https://zqjc.org]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[1runvip-uh6s1]	id=[1]	domain=[http://1run.vip]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[vpnsudatechstore-yum]	id=[1]	domain=[https://vpn.sudatech.store]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[sq9xy6cpminigcom-vib]	id=[1]	domain=[https://sq9xy6.cpminig.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[appcloudlionme-ni6]	id=[1]	domain=[https://app.cloudlion.me]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[moluocloud-ugj7t]	id=[1]	domain=[https://moluo.cloud]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwsusucloudnet-tnsk]	id=[1]	domain=[https://www.susucloud.net]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[zhuiyuntop-3qcl]	id=[1]	domain=[https://zhuiyun.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[bxiaowcc-lk8]	id=[1]	domain=[https://b.xiaow.cc]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[hktixnet-4zp9]	id=[1]	domain=[https://hktix.net]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwmangsheorg-pt6]	id=[1]	domain=[https://www.mangshe.org]
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://bp123.xyz
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwweyujichangcom-q9t]	id=[1]	domain=[https://www.eyujichang.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[dbshellnetnet-xszc]	id=[1]	domain=[https://db.shellnet.net]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[jisovpnsite-os2t0]	id=[1]	domain=[https://jisovpn.site]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[niercloudcom-dbm8y]	id=[1]	domain=[https://niercloud.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[qingyunzybseuorg-a6c9]	id=[1]	domain=[https://qingyun.zybs.eu.org]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[iii1catymoe-imb3]	id=[1]	domain=[https://iii1.caty.moe]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwxfxssrcom-s3v]	id=[1]	domain=[https://www.xfxssr.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwxierclouduk-vi039]	id=[1]	domain=[https://www.xiercloud.uk]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[snanguacom-0rmlw]	id=[1]	domain=[https://snangua.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[client3ilol-ywz]	id=[1]	domain=[https://client.3i.lol]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[plinkctop-38e]	id=[1]	domain=[https://plinkc.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[lanmaoyunicu-dfxt]	id=[1]	domain=[https://lanmaoyun.icu]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wumaojichangcom-vt1f5]	id=[1]	domain=[https://wumaojichang.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[cococloudonline-95px]	id=[1]	domain=[https://cococloud.online]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwdukadione-k9fjx]	id=[1]	domain=[https://www.dukadi.one]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[yingwuyuntop-7ft]	id=[1]	domain=[https://yingwuyun.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwyunanyuncom-8numy]	id=[1]	domain=[https://www.yunanyun.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[applwjyjcom-iu0]	id=[1]	domain=[https://app.lwjyj.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwhurricanerelaynet-2zmep]	id=[1]	domain=[https://www.hurricanerelay.net]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xueyejiasucom-lqpjs]	id=[1]	domain=[https://xueyejiasu.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[leflycloudcom-x87]	id=[1]	domain=[https://leflycloud.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwtencloudnet-4lvm]	id=[1]	domain=[https://www.tencloud.net]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudnet-3r5]	id=[1]	domain=[https://ktmcloud.net]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloud1top-k5q9]	id=[1]	domain=[https://ktmcloud1.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudshop-zgf]	id=[1]	domain=[https://ktmcloud.shop]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudtop-x103y]	id=[1]	domain=[https://ktmcloud.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudone-t4zj]	id=[1]	domain=[https://ktmcloud.one]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudlink-5g8hs]	id=[1]	domain=[https://ktmcloud.link]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudvip-qk9]	id=[1]	domain=[https://ktmcloud.vip]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[xianyuwangluotop-9p7]	id=[1]	domain=[https://xianyuwangluo.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[aitotwotop-bqpx]	id=[1]	domain=[https://ai.totwo.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[aitotwolink-ufvqz]	id=[1]	domain=[https://ai.totwo.link]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[a1darkforestcloud-tmiqz]	id=[1]	domain=[https://a1.darkforest.cloud]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[darkforestcloud-lrnew]	id=[1]	domain=[https://darkforest.cloud]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[cxklol-ecukn]	id=[1]	domain=[https://cxk.lol]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[syqtw-eh5]	id=[1]	domain=[https://syq.tw]
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://sub.flygfw.top
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[sanxijichangcom-72vm6]	id=[1]	domain=[https://sanxijichang.com]
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://hssl8088.icu
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[storekakocloudpro-s6xg]	id=[1]	domain=[https://store.kakocloud.pro]
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://wuxianjc.top
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[sidogtop-3ds4]	id=[1]	domain=[https://sidog.top]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[gfwbest-xqu]	id=[1]	domain=[https://gfw.best]
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.gougou.live
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[chiguayunorg-yrigx]	id=[1]	domain=[https://chiguayun.org]
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://changyouvpn.top
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://by.yunduanjc.top
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[chiguayunnet-7i4ag]	id=[1]	domain=[https://chiguayun.net]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[chiguayuncom-lwto]	id=[1]	domain=[https://chiguayun.com]
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[guanwangme-vhw5]	id=[1]	domain=[https://guanwang.me]
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://yunduanjc.top
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[liulangdiqiucc-rqe]	id=[1]	domain=[https://liulangdiqiu.cc]
-2025-04-02 03:31:22 airport.py [line:361] INFO: not exists free plan, domain: https://thecom.today
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.jsfx.tech
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[dashuaius-jsq]	id=[1]	domain=[https://dashuai.us]
-2025-04-02 03:31:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://a1.darkforest.cloud
-2025-04-02 03:31:22 workflow.py [line:105] INFO: start fetch proxy: name=[qianggewangluocom-1y3l]	id=[1]	domain=[https://qianggewangluo.com]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[themeservercutecloudonede-qp1h]	id=[1]	domain=[https://themeserver.cutecloudone.de]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://passwall.link
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[bobapikkhhyyttcn-c6nx]	id=[1]	domain=[https://bobapi.kkhhyytt.cn]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[nanbeibuzz-37y5]	id=[1]	domain=[http://nanbei.buzz]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://kn.kngtxy.top
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[nanbeicloud-0g8f1]	id=[1]	domain=[http://nanbei.cloud]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.xbyun.live
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[www1365365xyz-6zvx]	id=[1]	domain=[https://www.1365365.xyz]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://kuailejc.xyz
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://cxk.lol
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[bt3one-rg6jo]	id=[1]	domain=[https://bt3.one]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://darkforest.cloud
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[tblackxyz-81q]	id=[1]	domain=[https://tblack.xyz]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[shuimusite-spmx]	id=[1]	domain=[https://shuimu.site]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://kaikaixinxin.me
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[tcity8top-70ger]	id=[1]	domain=[https://tcity8.top]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://dash.minizz.online
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[liangyuandianclub-5lp]	id=[1]	domain=[https://liangyuandian.club]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://cococloud.online
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[rebornkaochangltd-yd5ul]	id=[1]	domain=[https://reborn.kaochang.ltd]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://snangua.com
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[fastestcloudxyz-htg1k]	id=[1]	domain=[https://fastestcloud.xyz]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://chuifengji.top
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://jisovpn.site
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[wwwxihoogsicom-izkcx]	id=[1]	domain=[https://www.xihoogsi.com]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[fastcloudstore-yp54]	id=[1]	domain=[https://fastcloud.store]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.lwjyj.com
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[nekoservices-hej]	id=[1]	domain=[https://neko.services]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://wumaojichang.com
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[kuaiqiangshouxyz-s5bt]	id=[1]	domain=[https://kuaiqiangshou.xyz]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.cloudlion.me
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[nekoyuriunicom-ya0]	id=[1]	domain=[https://neko.yuriuni.com]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.yunanyun.com
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[vpngunyoungtop-2sdn]	id=[1]	domain=[https://vpn.gunyoung.top]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[mylegethcom-934]	id=[1]	domain=[https://my.legeth.com]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://666v.xyz
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://bailian.site
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[dashlegethcom-7hz]	id=[1]	domain=[http://dash.legeth.com]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[gossrpw-n9t]	id=[1]	domain=[https://gossr.pw]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[onefalltop-m1l9z]	id=[1]	domain=[http://onefall.top]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://tlnnm.ntgdada.top
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://xes.al
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[wwwpaopaodog-sqo]	id=[1]	domain=[http://www.paopao.dog]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[appbirdshk-b86]	id=[1]	domain=[https://app.birds.hk]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://nekros.us
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://1.vyunyun.top
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://zzz.youxuan.wiki
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[www1655sscom-av8p7]	id=[1]	domain=[https://www.1655ss.com]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[22lownetxyz-0vb]	id=[1]	domain=[https://22.lownet.xyz]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://hktix.net
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[wayeneu-7js]	id=[1]	domain=[https://wayen.eu]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[jk-cloudnet-6si]	id=[1]	domain=[https://jk-cloud.net]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://sytcloud.top
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[www9yuantop-bq1mg]	id=[1]	domain=[https://www.9yuan.top]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://xjyjc.top
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://laosijicc.top
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[wwwfooksunxyz-cph8]	id=[1]	domain=[https://www.fooksun.xyz]
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[homecaiyunmom-dny0g]	id=[1]	domain=[https://home.caiyun.mom]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.xfxssr.com
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[caiyunwiki-xma]	id=[1]	domain=[https://caiyun.wiki]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.xiercloud.uk
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[ov2rayotop-c4xw]	id=[1]	domain=[http://ov2rayo.top]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://ktmcloud.net
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://ktmcloud.vip
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[17yxyycc-tjw3]	id=[1]	domain=[http://17yxyy.cc]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://maple.icu
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://ktmcloud.one
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[54fxpxyz-852]	id=[1]	domain=[https://54fxp.xyz]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://aimanman.me
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[haobacloud-htk]	id=[1]	domain=[https://haoba.cloud]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://xingclouds.xyz
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://bobapi.kkhhyytt.cn
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[mianmdninja-4db9e]	id=[1]	domain=[https://mianmd.ninja]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://ddddd.site
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[wwwgogocloudcyou-vwa2]	id=[1]	domain=[https://www.gogocloud.cyou]
-2025-04-02 03:31:23 airport.py [line:361] INFO: not exists free plan, domain: https://surfgb8.world
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://pianyijichang.com
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[planbcat-rxo7]	id=[1]	domain=[https://planb.cat]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://ktmcloud.top
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[vcheerfundev-69ut]	id=[1]	domain=[https://v.cheerfun.dev]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://my.legeth.com
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[wwwcantonxcom-ove]	id=[1]	domain=[https://www.cantonx.com]
-2025-04-02 03:31:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://ktmcloud1.top
-2025-04-02 03:31:23 workflow.py [line:105] INFO: start fetch proxy: name=[airyoyossxyz-zmr3c]	id=[1]	domain=[https://air.yoyoss.xyz]
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[91yunbuzz-5i6z]	id=[1]	domain=[https://91yun.buzz]
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[portalbuddhajumpsoverthewallcom-5cd]	id=[1]	domain=[https://portal.buddhajumpsoverthewall.com]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://ktmcloud.shop
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[network2magic-in-chinacom-e73]	id=[1]	domain=[http://network2.magic-in-china.com]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://gossr.pw
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[kedouairtop-3vn]	id=[1]	domain=[https://kedouair.top]
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[oceancloudasia-tc70f]	id=[1]	domain=[http://oceancloud.asia]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://reborn.kaochang.ltd
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[ssrgiizecom-hw7]	id=[1]	domain=[https://ssr.giize.com]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://www.mangshe.org
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://c.yousu.cc
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[wwwwkyun1688com-gm3]	id=[1]	domain=[https://www.wkyun1688.com]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://a.yousu.cc
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[airmisakanoeuorg-qnjpi]	id=[1]	domain=[https://air.misakano.eu.org]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://www.eyujichang.com
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://b.yousu.cc
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[yhcvpnxyz-uo3m]	id=[1]	domain=[https://yhcvpn.xyz]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: http://dash.legeth.com
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[starlinkto-f1w]	id=[1]	domain=[https://starlink.to]
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[wwwdageyunnet-w7oz]	id=[1]	domain=[https://www.dageyun.net]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://sub1.pingboy.top
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://caiyun.wiki
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[apidagecloudcom-7zv]	id=[1]	domain=[https://apidagecloud.com]
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[wwwstarlink9527xyz-2o1yb]	id=[1]	domain=[https://www.starlink9527.xyz]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://home.caiyun.mom
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[bajieinfo-y1og]	id=[1]	domain=[https://bajie.info]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://yingwuyun.top
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://w02.qytl2web01.cc
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://gfw.best
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[bajiepw-j8dw2]	id=[1]	domain=[https://bajie.pw]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://xiaofeixia.me
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://xianyuwangluo.top
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://chiguayun.org
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://chiguayun.com
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://chiguayun.net
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://haoba.cloud
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[8rktxyz-vofb]	id=[1]	domain=[https://8rkt.xyz]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://www.dukadi.one
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://5.44.251.106
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://sjy001.xyz
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[58rocketcom-i1wv]	id=[1]	domain=[https://58rocket.com]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://moluo.cloud
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://kuaiqiangshou.xyz
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[apidashsptop-hjn]	id=[1]	domain=[https://api.dashsp.top]
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[miaonaco-xuyj]	id=[1]	domain=[https://miaona.co]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: http://ov2rayo.top
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[miaonaorg-d9rej]	id=[1]	domain=[https://miaona.org]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://api.heima2u.com
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://yihicloud.top
-2025-04-02 03:31:24 airport.py [line:364] INFO: found free plan, domain: https://qingyun.zybs.eu.org, plan: Plan(plan_id=1, package='month_price', renew=True, reset=False, trafficflow=50)
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://guanwang.me
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[miaonaxyz-hc39v]	id=[1]	domain=[https://miaona.xyz]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: http://www.paopao.dog
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[latiaoclub-kcz]	id=[1]	domain=[https://latiao.club]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://api.shanhai.one
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://sanxijichang.com
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[58sdnet-uah8m]	id=[1]	domain=[https://58sd.net]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://liulangdiqiu.cc
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://zqjc.org
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[latiaous-48j]	id=[1]	domain=[https://latiao.us]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: http://nanbei.buzz
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://zhuiyun.top
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://sq9xy6.cpminig.com
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[latiaobuzz-aoc]	id=[1]	domain=[https://latiao.buzz]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://qianggewangluo.com
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://liangyuandian.club
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: http://51.255.173.39
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: http://nanbei.cloud
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://shuimu.site
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[gladosnetwork-32q1]	id=[1]	domain=[https://glados.network]
-2025-04-02 03:31:24 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
-2025-04-02 03:31:24 airport.py [line:471] ERROR: cannot create temporary email account, site: https://fastcloud.store
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[gladosone-5ry6l]	id=[1]	domain=[https://glados.one]
-2025-04-02 03:31:24 airport.py [line:361] INFO: not exists free plan, domain: https://rtx.al
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://vpn.sudatech.store
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[bityunorg-bg584]	id=[1]	domain=[https://bityun.org]
-2025-04-02 03:31:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://plinkc.top
-2025-04-02 03:31:24 workflow.py [line:105] INFO: start fetch proxy: name=[bityunorg-1fh]	id=[1]	domain=[http://bityun.org]
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://jk-cloud.net
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://www.hurricanerelay.net
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.jiasuniu.com
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[subchbjpwmobi-t9vd]	id=[1]	domain=[http://sub.chbjpw.mobi]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[www58mdsscom-5jgs]	id=[1]	domain=[https://www.58mdss.com]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[88catnetcom-yw9ap]	id=[1]	domain=[https://88catnet.com]
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://www.gogocloud.cyou
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: http://subssr.xfxvpn.me
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://sidog.top
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://v.cheerfun.dev
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.starlink9527.xyz
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[mdsscloud-zqbj]	id=[1]	domain=[https://mdss.cloud]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[www99catnetcom-nt8r]	id=[1]	domain=[https://www.99catnet.com]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[gladosspace-5v8h1]	id=[1]	domain=[https://glados.space]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://kedouair.top
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[panelkeleofficialcom-7yp]	id=[1]	domain=[https://panel.keleofficial.com]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://starlink.to
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[a02qytvipaffpro-eorj]	id=[1]	domain=[https://a02.qytvipaff.pro]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[fengwopro-w1j]	id=[1]	domain=[https://fengwo.pro]
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://xueyejiasu.com
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[akpyunlive-0jtg7]	id=[1]	domain=[https://a.kpyun.live]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://syq.tw
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[一家机场com-2hxgf]	id=[1]	domain=[https://一家机场.com]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://wayen.eu
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[悟空机场com-4ao9]	id=[1]	domain=[https://悟空机场.com]
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://fastestcloud.xyz
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[appjingfanme-9wg]	id=[1]	domain=[https://app.jingfan.me]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://niercloud.com
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[巅峰机场com-7i0]	id=[1]	domain=[https://巅峰机场.com]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[优惠机场com-icg]	id=[1]	domain=[https://优惠机场.com]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.cantonx.com
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[五分机场live-ae5b]	id=[1]	domain=[https://五分机场.live]
-2025-04-02 03:31:25 renewal.py [line:456] ERROR: fetch free plans error, cookies and authorization is empty, domain: https://glados.network
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://glados.network
-2025-04-02 03:31:25 renewal.py [line:554] ERROR: query subscribe information error, cookies and authorization is empty, domain: https://glados.network
-2025-04-02 03:31:25 airport.py [line:335] ERROR: [RegisterError] cannot get token when register, domain: https://glados.network
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[便宜机场co-hrv2]	id=[1]	domain=[https://便宜机场.co]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[appcloudogme-82ytm]	id=[1]	domain=[https://app.cloudog.me]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://巅峰机场.com
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[xn--wtq35pfyd55oco-ai7x3]	id=[1]	domain=[https://xn--wtq35pfyd55o.co]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://悟空机场.com
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[xn--mes91t7ofgnwcom-muk71]	id=[1]	domain=[https://xn--mes91t7ofgnw.com]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://22.lownet.xyz
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[xn--4oq11ryli3rgcom-ec1z8]	id=[1]	domain=[https://xn--4oq11ryli3rg.com]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[wwwkuaidog006top-e4b]	id=[1]	domain=[https://www.kuaidog006.top]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://themeserver.cutecloudone.de
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[gy888xyz-r2a]	id=[1]	domain=[https://gy888.xyz]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[gy777xyz-vw8ax]	id=[1]	domain=[https://gy777.xyz]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://b.xiaow.cc
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[dobcloudcom-9s261]	id=[1]	domain=[https://dobcloud.com]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[qingyunticc-q60m]	id=[1]	domain=[http://qingyunti.cc]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://ai.totwo.top
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[wwwhj522top-5yo89]	id=[1]	domain=[https://www.hj522.top]
-2025-04-02 03:31:25 renewal.py [line:456] ERROR: fetch free plans error, cookies and authorization is empty, domain: https://glados.one
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://glados.one
-2025-04-02 03:31:25 renewal.py [line:554] ERROR: query subscribe information error, cookies and authorization is empty, domain: https://glados.one
-2025-04-02 03:31:25 airport.py [line:335] ERROR: [RegisterError] cannot get token when register, domain: https://glados.one
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[wwwhj521top-bdnl9]	id=[1]	domain=[https://www.hj521.top]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://五分机场.live
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[syniaoniaoco-kjsi]	id=[1]	domain=[https://sy.niaoniao.co]
-2025-04-02 03:31:25 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
-2025-04-02 03:31:25 airport.py [line:471] ERROR: cannot create temporary email account, site: http://oceancloud.asia
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[pkqxlmplus-4kh]	id=[1]	domain=[https://pkq.xlm.plus]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://tblack.xyz
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[wwwnaiunetcom-3di1]	id=[1]	domain=[https://www.naiunet.com]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://xx-ai.io
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[mpddttop-bvq0]	id=[1]	domain=[https://mpddt.top]
-2025-04-02 03:31:25 workflow.py [line:140] INFO: finished fetch proxy: name=[sub1pingboytop-9trlp]	username=[jgUsbaYiQtW9@qq.com]	domain=[https://sub1.pingboy.top]	count=[11]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[fengcheyunxyz-p6a2]	id=[1]	domain=[https://fengcheyun.xyz]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://ai.totwo.link
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[dashcatnetuk-xg9]	id=[1]	domain=[https://dash.catnet.uk]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.tencloud.net
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[一个机场com-eoj]	id=[1]	domain=[https://一个机场.com]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://一家机场.com
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[xn--4gqvd492adjrcom-qgb]	id=[1]	domain=[https://xn--4gqvd492adjr.com]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[epclubxyz-6pco3]	id=[1]	domain=[https://epclub.xyz]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://58sd.net
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[66yunlat-ykr]	id=[1]	domain=[https://66yun.lat]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.9yuan.top
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[ylhq12top-vuzeb]	id=[1]	domain=[https://yl.hq12.top]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[myaqiqitop-q4gd]	id=[1]	domain=[https://myaqiqi.top]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://air.yoyoss.xyz
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[myxiongaditop-pd6]	id=[1]	domain=[https://myxiongadi.top]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://便宜机场.co
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[anydoorcloudnsch-4h5kz]	id=[1]	domain=[https://anydoor.cloudns.ch]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[anydooreuorg-0eqrh]	id=[1]	domain=[https://anydoor.eu.org]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://优惠机场.com
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[ansuyunxyz-62hx7]	id=[1]	domain=[https://ansuyun.xyz]
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: http://vyy.idsduf.com
-2025-04-02 03:31:25 airport.py [line:361] INFO: not exists free plan, domain: https://terfghtll.dashuai.us
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[nyxenorg-cuw9]	id=[1]	domain=[https://nyxen.org]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[moluofun-ulhf]	id=[1]	domain=[https://moluo.fun]
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[cainiao999top-drpf3]	id=[1]	domain=[https://cainiao999.top]
-2025-04-02 03:31:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.1365365.xyz
-2025-04-02 03:31:25 workflow.py [line:105] INFO: start fetch proxy: name=[www23800top-g2l]	id=[1]	domain=[https://www.23800.top]
-2025-04-02 03:31:26 renewal.py [line:456] ERROR: fetch free plans error, cookies and authorization is empty, domain: https://glados.space
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://glados.space
-2025-04-02 03:31:26 renewal.py [line:554] ERROR: query subscribe information error, cookies and authorization is empty, domain: https://glados.space
-2025-04-02 03:31:26 airport.py [line:335] ERROR: [RegisterError] cannot get token when register, domain: https://glados.space
-2025-04-02 03:31:26 workflow.py [line:105] INFO: start fetch proxy: name=[inlookme-dzxw]	id=[1]	domain=[https://inlook.me]
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.1655ss.com
-2025-04-02 03:31:26 workflow.py [line:105] INFO: start fetch proxy: name=[w03qytweba07cc-l76]	id=[1]	domain=[https://w03.qytweba07.cc]
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.jingfan.me
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://bajie.info
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://fengwo.pro
-2025-04-02 03:31:26 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
-2025-04-02 03:31:26 airport.py [line:471] ERROR: cannot create temporary email account, site: https://mianmd.ninja
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://bajie.pw
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://miaona.co
-2025-04-02 03:31:26 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://bityun.org
-2025-04-02 03:31:26 airport.py [line:471] ERROR: cannot create temporary email account, site: https://www.wkyun1688.com
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://planb.cat
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: http://onefall.top
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://latiao.club
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://dgg.idsduf.com
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://myxiongadi.top
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.58mdss.com
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://latiao.us
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://myaqiqi.top
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: http://bityun.org
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.fooksun.xyz
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://gy888.xyz
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://ssr.giize.com
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://miaona.org
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.cloudog.me
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://91yun.buzz
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://dashuai.us
-2025-04-02 03:31:26 workflow.py [line:140] INFO: finished fetch proxy: name=[544251106-0pys]	username=[fJeSTEFzulp4Cv@yeah.com]	domain=[https://5.44.251.106]	count=[21]
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://api.dashsp.top
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.naiunet.com
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://mdss.cloud
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://air.misakano.eu.org
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://miaona.xyz
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://cmy.ewwnu.cn
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://vpn.gunyoung.top
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://apidagecloud.com
-2025-04-02 03:31:26 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://qingyun.zybs.eu.org
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://88catnet.com
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://fengcheyun.xyz
-2025-04-02 03:31:26 workflow.py [line:140] INFO: finished fetch proxy: name=[subssrxfxvpnme-79ck]	username=[fQHFXJmBpD43OY@sina.com]	domain=[http://subssr.xfxvpn.me]	count=[24]
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://gy777.xyz
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://latiao.buzz
-2025-04-02 03:31:26 workflow.py [line:140] INFO: finished fetch proxy: name=[apiheima2ucom-iembo]	username=[UwNHRtWpy@gmx.com]	domain=[https://api.heima2u.com]	count=[18]
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://cainiao999.top
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://tcity8.top
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://panel.keleofficial.com
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.99catnet.com
-2025-04-02 03:31:26 airport.py [line:361] INFO: not exists free plan, domain: https://dobcloud.com
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://dash.catnet.uk
-2025-04-02 03:31:26 airport.py [line:276] INFO: achieved max retry when register, domain: http://17yxyy.cc
-2025-04-02 03:31:27 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
-2025-04-02 03:31:27 airport.py [line:471] ERROR: cannot create temporary email account, site: https://yhcvpn.xyz
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--wtq35pfyd55o.co
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://ktmcloud.link
-2025-04-02 03:31:27 workflow.py [line:140] INFO: finished fetch proxy: name=[apishanhaione-gtb]	username=[ilP7Edzvf@qq.com]	domain=[https://api.shanhai.one]	count=[1]
-2025-04-02 03:31:27 workflow.py [line:140] INFO: finished fetch proxy: name=[5125517339-kgf]	username=[UG7E2pK0aVNXCMDQ@yeah.com]	domain=[http://51.255.173.39]	count=[41]
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: http://sub.chbjpw.mobi
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--4oq11ryli3rg.com
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://mpddt.top
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://ansuyun.xyz
-2025-04-02 03:31:27 airport.py [line:361] INFO: not exists free plan, domain: https://66yun.lat
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://一个机场.com
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://moluo.fun
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://client.3i.lol
-2025-04-02 03:31:27 airport.py [line:361] INFO: not exists free plan, domain: https://www.23800.top
-2025-04-02 03:31:27 airport.py [line:361] INFO: not exists free plan, domain: https://a02.qytvipaff.pro
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--mes91t7ofgnw.com
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://xmfwww.cc
-2025-04-02 03:31:27 airport.py [line:364] INFO: found free plan, domain: https://ch.louwangzhiyu.xyz, plan: Plan(plan_id=1, package='month_price', renew=True, reset=False, trafficflow=1000)
-2025-04-02 03:31:27 airport.py [line:276] INFO: achieved max retry when register, domain: https://leflycloud.com
-2025-04-02 03:31:27 workflow.py [line:140] INFO: finished fetch proxy: name=[dobcloudcom-9s261]	username=[ScfUmxVs7whJaEIC@qq.com]	domain=[https://dobcloud.com]	count=[2]
-2025-04-02 03:31:27 airport.py [line:364] INFO: found free plan, domain: https://www.kuaidog006.top, plan: Plan(plan_id=12, package='month_price', renew=True, reset=False, trafficflow=100)
-2025-04-02 03:31:28 airport.py [line:361] INFO: not exists free plan, domain: https://pkq.xlm.plus
-2025-04-02 03:31:28 airport.py [line:361] INFO: not exists free plan, domain: https://sy.niaoniao.co
-2025-04-02 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://haitunyun1.cfd
-2025-04-02 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://xingcloud.pwzvd.cn
-2025-04-02 03:31:28 renewal.py [line:607] ERROR: cannot get subscribe information, domain: https://a02.qytvipaff.pro, response: <!DOCTYPE html>
+2025-04-03 03:25:56 collect.py [line:209] ERROR: cannot extract username and gist id due to invalid github gist link
+2025-04-03 03:25:56 collect.py [line:71] INFO: start checking whether existing subscriptions have expired
+2025-04-03 03:26:03 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [check_status] finished, count: 13, cost: 6.75s
+2025-04-03 03:26:03 collect.py [line:113] INFO: load exists subscription finished, count: 9
+2025-04-03 03:26:04 crawl.py [line:1430] INFO: [TelegramCrawl] starting crawl from telegram, channel: jichang_list, pages: 206
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4115
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4095
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4075
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4055
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4035
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=4015
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3995
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3975
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3955
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3935
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3915
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3895
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3875
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3855
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3835
+2025-04-03 03:26:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3815
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3795
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3775
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3755
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3735
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3715
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3695
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3675
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3655
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3635
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3615
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3595
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3575
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3555
+2025-04-03 03:26:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3535
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3515
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3495
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3475
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3455
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3435
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3415
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3395
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3375
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3355
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3335
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3315
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3295
+2025-04-03 03:26:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3275
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3255
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3235
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3215
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3195
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3175
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3155
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3135
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3115
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3095
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3075
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3055
+2025-04-03 03:26:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3035
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=3015
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2995
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2975
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2955
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2935
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2915
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2895
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2875
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2855
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2835
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2815
+2025-04-03 03:26:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2795
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2775
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2755
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2735
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2715
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2695
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2675
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2655
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2635
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2615
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2595
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2575
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2555
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2535
+2025-04-03 03:26:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2515
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2495
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2475
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2455
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2435
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2415
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2395
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2375
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2355
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2335
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2315
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2295
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2275
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2255
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2235
+2025-04-03 03:26:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2215
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2195
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2175
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2155
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2135
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2115
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2095
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2075
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2055
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2035
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=2015
+2025-04-03 03:26:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1995
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1975
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1955
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1935
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1915
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1895
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1875
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1855
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1835
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1815
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1795
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1775
+2025-04-03 03:26:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1755
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1735
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1715
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1695
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1675
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1655
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1635
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1615
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1595
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1575
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1555
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1535
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1515
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1495
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1475
+2025-04-03 03:26:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1455
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1435
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1415
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1395
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1375
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1355
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1335
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1315
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1295
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1275
+2025-04-03 03:26:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1255
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1235
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1215
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1195
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1175
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1155
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1135
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1115
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1095
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1075
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1055
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1035
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=1015
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=995
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=975
+2025-04-03 03:26:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=955
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=935
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=915
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=895
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=875
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=855
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=835
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=815
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=795
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=775
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=755
+2025-04-03 03:26:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=735
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=715
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=695
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=675
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=655
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=635
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=615
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=595
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=575
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=555
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=535
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=515
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=495
+2025-04-03 03:26:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=475
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=455
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=435
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=415
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=395
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=375
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=355
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=335
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=315
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=295
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=275
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=255
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=235
+2025-04-03 03:26:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=215
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=195
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=175
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=155
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=135
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=115
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=95
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=75
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=55
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=35
+2025-04-03 03:26:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/jichang_list?before=15
+2025-04-03 03:26:20 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [extract_airport_site] finished, count: 206, cost: 16.12s
+2025-04-03 03:26:28 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [get_redirect_url] finished, count: 12, cost: 7.85s
+2025-04-03 03:26:33 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [run_crawl] finished, count: 13, cost: 0.25s
+2025-04-03 03:26:33 crawl.py [line:1731] INFO: [AirPortCollector] fetched 5406 airport, start extracting real routing addresses
+2025-04-03 03:28:47 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [extract_backend_url] finished, count: 5406, cost: 134.67s
+2025-04-03 03:28:47 crawl.py [line:1743] INFO: [AirPortCollector] extract real base url finished, start to check it now
+2025-04-03 03:30:18 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [validate_domain] finished, count: 2324, cost: 90.44s
+2025-04-03 03:30:18 crawl.py [line:1755] INFO: [AirPortCollector] finished collect airport, availables: 230
+2025-04-03 03:30:18 collect.py [line:267] INFO: start generate subscribes information, tasks: 267
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[7ZSQAEnK]	id=[1]	domain=[https://ch.owokkvsxks.store]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[WSjivbrG]	id=[1]	domain=[https://5.44.251.106]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[1MlAowym]	id=[1]	domain=[https://api.heima2u.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[37rcU8DM]	id=[1]	domain=[https://ch.owokkvsxks.store]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[4otImwS3]	id=[1]	domain=[https://sub1.pingboy.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[87e3U5hg]	id=[1]	domain=[https://d1ywvjbifrq4kr.cloudfront.net]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[TmwHFak1]	id=[1]	domain=[https://api.rss-nodes.site?url=aHR0cHM6Ly9kb2JjbG91ZC5jb20vYXBpL3YxL2NsaWVudC9zdWJzY3JpYmU]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[hYowsiEu]	id=[1]	domain=[https://link04.shanhai.me]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[hALBzO7l]	id=[1]	domain=[http://sub.kjdjakskl.cyou]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[4710167199:6699-1yal]	id=[1]	domain=[http://47.101.67.199:6699]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[subssrxfxvpnme-g7s]	id=[1]	domain=[http://subssr.xfxvpn.me]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[terfghtlldashuaius-v3b]	id=[1]	domain=[https://terfghtll.dashuai.us]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[544251106-k9v]	id=[1]	domain=[https://5.44.251.106]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[subflygfwtop-kw9]	id=[1]	domain=[https://sub.flygfw.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[5125517339-p8ce]	id=[1]	domain=[http://51.255.173.39]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[apiheima2ucom-vpa]	id=[1]	domain=[https://api.heima2u.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[sub1pingboytop-f7noc]	id=[1]	domain=[https://sub1.pingboy.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[apishanhaione-6eqdg]	id=[1]	domain=[https://api.shanhai.one]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[cloudjisubalive-2jk]	id=[1]	domain=[https://cloud.jisuba.live]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[bp123xyz-hbxl7]	id=[1]	domain=[https://bp123.xyz]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xingcloudsxyz-zd3ob]	id=[1]	domain=[https://xingclouds.xyz]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xingcloudpwzvdcn-ya0oj]	id=[1]	domain=[https://xingcloud.pwzvd.cn]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[aimanmanme-qlvzj]	id=[1]	domain=[https://aimanman.me]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[sjy001xyz-051]	id=[1]	domain=[https://sjy001.xyz]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[cloudjsfxtech-uk6]	id=[1]	domain=[https://cloud.jsfx.tech]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[cloudgougoulive-bxflq]	id=[1]	domain=[https://cloud.gougou.live]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[tlnnmntgdadatop-q51lh]	id=[1]	domain=[https://tlnnm.ntgdada.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xesal-l78]	id=[1]	domain=[https://xes.al]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[10runvip-cvjg4]	id=[1]	domain=[https://10run.vip]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[hssl8088icu-mj7]	id=[1]	domain=[https://hssl8088.icu]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[yihicloudtop-4jp6]	id=[1]	domain=[https://yihicloud.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xjyjctop-37e]	id=[1]	domain=[https://xjyjc.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[nekrosus-g247]	id=[1]	domain=[https://nekros.us]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[laosijicctop-wf6]	id=[1]	domain=[https://laosijicc.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[pianyijichangcom-ko7l]	id=[1]	domain=[https://pianyijichang.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[haitunyun1cfd-ewvi6]	id=[1]	domain=[https://haitunyun1.cfd]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[chuifengjitop-u2v]	id=[1]	domain=[https://chuifengji.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[haitunyun2cfd-0jr]	id=[1]	domain=[https://haitunyun2.cfd]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[sytcloudtop-p0l]	id=[1]	domain=[https://sytcloud.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wuxianjctop-bmks6]	id=[1]	domain=[https://wuxianjc.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[cmyewwnucn-ch41]	id=[1]	domain=[https://cmy.ewwnu.cn]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xiaofeixiame-aq2b0]	id=[1]	domain=[https://xiaofeixia.me]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[byyunduanjctop-vx5a6]	id=[1]	domain=[https://by.yunduanjc.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[yunduanjctop-d329]	id=[1]	domain=[https://yunduanjc.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[kuailejcxyz-li6]	id=[1]	domain=[https://kuailejc.xyz]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[changyouvpntop-o7fbc]	id=[1]	domain=[https://changyouvpn.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[w02qytl2web01cc-6t3]	id=[1]	domain=[https://w02.qytl2web01.cc]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[kaikaixinxinme-rfpt]	id=[1]	domain=[https://kaikaixinxin.me]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[magicmsbs-be6q]	id=[1]	domain=[https://magicm.sbs]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[magicmlink-orz5m]	id=[1]	domain=[https://magicm.link]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[knkngtxytop-3fzx]	id=[1]	domain=[https://kn.kngtxy.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[magicmtop-f187u]	id=[1]	domain=[https://magicm.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[666vxyz-zc8]	id=[1]	domain=[https://666v.xyz]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[magicmcc-h3o]	id=[1]	domain=[https://magicm.cc]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[magicmclick-9jx]	id=[1]	domain=[https://magicm.click]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[consoleveseaicom-0cl]	id=[1]	domain=[https://console.veseai.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[dashminizzonline-wfyat]	id=[1]	domain=[https://dash.minizz.online]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xyznoseiseicom-e2tyw]	id=[1]	domain=[https://xyz.noseisei.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[abcnoseiseicom-9lu]	id=[1]	domain=[https://abc.noseisei.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[passwalllink-qfg]	id=[1]	domain=[https://passwall.link]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[zxcnoseiseicom-tryj]	id=[1]	domain=[https://zxc.noseisei.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[bailiansite-ldybg]	id=[1]	domain=[https://bailian.site]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[dggidsdufcom-vrx]	id=[1]	domain=[https://dgg.idsduf.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[ayousucc-t7ihy]	id=[1]	domain=[https://a.yousu.cc]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[cyousucc-7q4oh]	id=[1]	domain=[https://c.yousu.cc]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[thecomtoday-ia0tb]	id=[1]	domain=[https://thecom.today]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[surfgb8world-zget0]	id=[1]	domain=[https://surfgb8.world]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[byousucc-58n]	id=[1]	domain=[https://b.yousu.cc]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[vyyidsdufcom-d9zwt]	id=[1]	domain=[http://vyy.idsduf.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwxbyunlive-phc94]	id=[1]	domain=[https://www.xbyun.live]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[panelmokupro-jskg]	id=[1]	domain=[https://panel.moku.pro]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[chcukugwebsite-jvrl]	id=[1]	domain=[https://ch.cukug.website]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xmfwwwcc-014n]	id=[1]	domain=[https://xmfwww.cc]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[rtxal-emqs]	id=[1]	domain=[https://rtx.al]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[chlouwangzhiyuxyz-tmb]	id=[1]	domain=[https://ch.louwangzhiyu.xyz]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[zzzyouxuanwiki-8xmb]	id=[1]	domain=[https://zzz.youxuan.wiki]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwjiasuniucom-1rv4n]	id=[1]	domain=[https://www.jiasuniu.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[dddddsite-4fo]	id=[1]	domain=[https://ddddd.site]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[1vyunyuntop-owqz]	id=[1]	domain=[https://1.vyunyun.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[mapleicu-gyk]	id=[1]	domain=[https://maple.icu]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xx-aiio-4hs0v]	id=[1]	domain=[https://xx-ai.io]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwaaaspeedcc-9yg]	id=[1]	domain=[https://www.aaaspeed.cc]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[zqjcorg-tr8]	id=[1]	domain=[https://zqjc.org]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[1runvip-n32]	id=[1]	domain=[http://1run.vip]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[vpnsudatechstore-4kt]	id=[1]	domain=[https://vpn.sudatech.store]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[sq9xy6cpminigcom-x9f]	id=[1]	domain=[https://sq9xy6.cpminig.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[appcloudlionme-6u4e]	id=[1]	domain=[https://app.cloudlion.me]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[moluocloud-c9z]	id=[1]	domain=[https://moluo.cloud]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwsusucloudnet-i0wvp]	id=[1]	domain=[https://www.susucloud.net]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[zhuiyuntop-ty91z]	id=[1]	domain=[https://zhuiyun.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[bxiaowcc-gfepb]	id=[1]	domain=[https://b.xiaow.cc]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[hktixnet-l094c]	id=[1]	domain=[https://hktix.net]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwmangsheorg-d6zhf]	id=[1]	domain=[https://www.mangshe.org]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwweyujichangcom-4d5]	id=[1]	domain=[https://www.eyujichang.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[dbshellnetnet-ark]	id=[1]	domain=[https://db.shellnet.net]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[jisovpnsite-ljw1a]	id=[1]	domain=[https://jisovpn.site]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[niercloudcom-asgzd]	id=[1]	domain=[https://niercloud.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[qingyunzybseuorg-kdxu]	id=[1]	domain=[https://qingyun.zybs.eu.org]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwxfxssrcom-dju]	id=[1]	domain=[https://www.xfxssr.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[iii1catymoe-1jd]	id=[1]	domain=[https://iii1.caty.moe]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwxierclouduk-l21jk]	id=[1]	domain=[https://www.xiercloud.uk]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[snanguacom-tdj8]	id=[1]	domain=[https://snangua.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[client3ilol-hel]	id=[1]	domain=[https://client.3i.lol]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[plinkctop-evw]	id=[1]	domain=[https://plinkc.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[lanmaoyunicu-5ecaw]	id=[1]	domain=[https://lanmaoyun.icu]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wumaojichangcom-yc4v]	id=[1]	domain=[https://wumaojichang.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[cococloudonline-0k6m]	id=[1]	domain=[https://cococloud.online]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwdukadione-e2kcr]	id=[1]	domain=[https://www.dukadi.one]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[yingwuyuntop-6eq]	id=[1]	domain=[https://yingwuyun.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwyunanyuncom-jkyw]	id=[1]	domain=[https://www.yunanyun.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[applwjyjcom-gxzl0]	id=[1]	domain=[https://app.lwjyj.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwhurricanerelaynet-vym]	id=[1]	domain=[https://www.hurricanerelay.net]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xueyejiasucom-fez]	id=[1]	domain=[https://xueyejiasu.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[leflycloudcom-j13]	id=[1]	domain=[https://leflycloud.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[wwwtencloudnet-nhx]	id=[1]	domain=[https://www.tencloud.net]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudnet-stqn]	id=[1]	domain=[https://ktmcloud.net]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloud1top-ob8r]	id=[1]	domain=[https://ktmcloud1.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudshop-dm0]	id=[1]	domain=[https://ktmcloud.shop]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudtop-huz3]	id=[1]	domain=[https://ktmcloud.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudone-lha]	id=[1]	domain=[https://ktmcloud.one]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudlink-4rpf]	id=[1]	domain=[https://ktmcloud.link]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[ktmcloudvip-1duy4]	id=[1]	domain=[https://ktmcloud.vip]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[xianyuwangluotop-86hcl]	id=[1]	domain=[https://xianyuwangluo.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[aitotwotop-xap]	id=[1]	domain=[https://ai.totwo.top]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[aitotwolink-648mg]	id=[1]	domain=[https://ai.totwo.link]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[a1darkforestcloud-nxi]	id=[1]	domain=[https://a1.darkforest.cloud]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[darkforestcloud-iq6]	id=[1]	domain=[https://darkforest.cloud]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[cxklol-1ap69]	id=[1]	domain=[https://cxk.lol]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://bp123.xyz
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[sanxijichangcom-3yk]	id=[1]	domain=[https://sanxijichang.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[syqtw-wpsdx]	id=[1]	domain=[https://syq.tw]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://sub.flygfw.top
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[storekakocloudpro-38h]	id=[1]	domain=[https://store.kakocloud.pro]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://wuxianjc.top
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[sidogtop-vf8hg]	id=[1]	domain=[https://sidog.top]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://hssl8088.icu
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[gfwbest-xr0zf]	id=[1]	domain=[https://gfw.best]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://kn.kngtxy.top
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[chiguayunorg-h8vj]	id=[1]	domain=[https://chiguayun.org]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://by.yunduanjc.top
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[chiguayunnet-mya]	id=[1]	domain=[https://chiguayun.net]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://changyouvpn.top
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[chiguayuncom-6jr]	id=[1]	domain=[https://chiguayun.com]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.jsfx.tech
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[guanwangme-vpz81]	id=[1]	domain=[https://guanwang.me]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://yunduanjc.top
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[liulangdiqiucc-npq]	id=[1]	domain=[https://liulangdiqiu.cc]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.gougou.live
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[dashuaius-h4i]	id=[1]	domain=[https://dashuai.us]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[qianggewangluocom-34ujv]	id=[1]	domain=[https://qianggewangluo.com]
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[themeservercutecloudonede-6dg]	id=[1]	domain=[https://themeserver.cutecloudone.de]
+2025-04-03 03:30:18 airport.py [line:276] INFO: achieved max retry when register, domain: https://passwall.link
+2025-04-03 03:30:18 workflow.py [line:105] INFO: start fetch proxy: name=[bobapikkhhyyttcn-g7xcm]	id=[1]	domain=[https://bobapi.kkhhyytt.cn]
+2025-04-03 03:30:18 airport.py [line:361] INFO: not exists free plan, domain: https://thecom.today
+2025-04-03 03:30:18 airport.py [line:361] INFO: not exists free plan, domain: https://kuailejc.xyz
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[nanbeibuzz-vq9it]	id=[1]	domain=[http://nanbei.buzz]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://kaikaixinxin.me
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[nanbeicloud-8a7]	id=[1]	domain=[http://nanbei.cloud]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.xbyun.live
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[www1365365xyz-ctajf]	id=[1]	domain=[https://www.1365365.xyz]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[bt3one-hip]	id=[1]	domain=[https://bt3.one]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://darkforest.cloud
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[tblackxyz-92h]	id=[1]	domain=[https://tblack.xyz]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://dash.minizz.online
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[shuimusite-ay19]	id=[1]	domain=[https://shuimu.site]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://a1.darkforest.cloud
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[tcity8top-c47]	id=[1]	domain=[https://tcity8.top]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://cxk.lol
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[liangyuandianclub-6dzcg]	id=[1]	domain=[https://liangyuandian.club]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://bailian.site
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://666v.xyz
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[rebornkaochangltd-v9qu8]	id=[1]	domain=[https://reborn.kaochang.ltd]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[fastestcloudxyz-3dyn]	id=[1]	domain=[https://fastestcloud.xyz]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://nekros.us
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[wwwxihoogsicom-nkc]	id=[1]	domain=[https://www.xihoogsi.com]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://jisovpn.site
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[fastcloudstore-i9ws1]	id=[1]	domain=[https://fastcloud.store]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[nekoservices-81gs]	id=[1]	domain=[https://neko.services]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[kuaiqiangshouxyz-s7oel]	id=[1]	domain=[https://kuaiqiangshou.xyz]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[nekoyuriunicom-xis5]	id=[1]	domain=[https://neko.yuriuni.com]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://tlnnm.ntgdada.top
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://xes.al
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[vpngunyoungtop-nuw]	id=[1]	domain=[https://vpn.gunyoung.top]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.cloudlion.me
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[mylegethcom-eb03]	id=[1]	domain=[https://my.legeth.com]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://snangua.com
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[dashlegethcom-7hp]	id=[1]	domain=[http://dash.legeth.com]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://wumaojichang.com
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[gossrpw-z0u5]	id=[1]	domain=[https://gossr.pw]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.lwjyj.com
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.yunanyun.com
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[onefalltop-3o4iw]	id=[1]	domain=[http://onefall.top]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://cococloud.online
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://www.aaaspeed.cc
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[wwwpaopaodog-xowqj]	id=[1]	domain=[http://www.paopao.dog]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[appbirdshk-z386]	id=[1]	domain=[https://app.birds.hk]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[www1655sscom-5b6ji]	id=[1]	domain=[https://www.1655ss.com]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[22lownetxyz-pjbr]	id=[1]	domain=[https://22.lownet.xyz]
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://xingclouds.xyz
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://1.vyunyun.top
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[wayeneu-3wpi]	id=[1]	domain=[https://wayen.eu]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[jk-cloudnet-xzr4u]	id=[1]	domain=[https://jk-cloud.net]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[www9yuantop-cr4]	id=[1]	domain=[https://www.9yuan.top]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://pianyijichang.com
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[wwwfooksunxyz-pbo]	id=[1]	domain=[https://www.fooksun.xyz]
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://surfgb8.world
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://xjyjc.top
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.xiercloud.uk
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[homecaiyunmom-2ut]	id=[1]	domain=[https://home.caiyun.mom]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://gfw.best
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[caiyunwiki-jvx]	id=[1]	domain=[https://caiyun.wiki]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[ov2rayotop-1p4]	id=[1]	domain=[http://ov2rayo.top]
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://maple.icu
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://ktmcloud.one
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://ktmcloud.net
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[17yxyycc-1z2]	id=[1]	domain=[http://17yxyy.cc]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://ktmcloud.top
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[54fxpxyz-ume9]	id=[1]	domain=[https://54fxp.xyz]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://aimanman.me
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[haobacloud-7m0]	id=[1]	domain=[https://haoba.cloud]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://ddddd.site
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[mianmdninja-12iy]	id=[1]	domain=[https://mianmd.ninja]
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://hktix.net
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://ktmcloud.vip
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://c.yousu.cc
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[wwwgogocloudcyou-2ftj]	id=[1]	domain=[https://www.gogocloud.cyou]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.xfxssr.com
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[planbcat-fed1x]	id=[1]	domain=[https://planb.cat]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://a.yousu.cc
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[vcheerfundev-w2h]	id=[1]	domain=[https://v.cheerfun.dev]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://22.lownet.xyz
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[wwwcantonxcom-6c3d]	id=[1]	domain=[https://www.cantonx.com]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://b.yousu.cc
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[airyoyossxyz-j6i0]	id=[1]	domain=[https://air.yoyoss.xyz]
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[91yunbuzz-x1f]	id=[1]	domain=[https://91yun.buzz]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://gossr.pw
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[portalbuddhajumpsoverthewallcom-q8f]	id=[1]	domain=[https://portal.buddhajumpsoverthewall.com]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://my.legeth.com
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[network2magic-in-chinacom-rl1df]	id=[1]	domain=[http://network2.magic-in-china.com]
+2025-04-03 03:30:19 airport.py [line:276] INFO: achieved max retry when register, domain: https://ktmcloud1.top
+2025-04-03 03:30:19 workflow.py [line:105] INFO: start fetch proxy: name=[kedouairtop-3e5o]	id=[1]	domain=[https://kedouair.top]
+2025-04-03 03:30:19 airport.py [line:361] INFO: not exists free plan, domain: https://sub1.pingboy.top
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[oceancloudasia-zf8]	id=[1]	domain=[http://oceancloud.asia]
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: http://dash.legeth.com
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[ssrgiizecom-snc6]	id=[1]	domain=[https://ssr.giize.com]
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://ktmcloud.shop
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[wwwwkyun1688com-6fprm]	id=[1]	domain=[https://www.wkyun1688.com]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://www.eyujichang.com
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://www.mangshe.org
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://reborn.kaochang.ltd
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[airmisakanoeuorg-xb1]	id=[1]	domain=[https://air.misakano.eu.org]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://w02.qytl2web01.cc
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://ai.totwo.top
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[yhcvpnxyz-7k3l0]	id=[1]	domain=[https://yhcvpn.xyz]
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://ai.totwo.link
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[starlinkto-dn5m]	id=[1]	domain=[https://starlink.to]
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://caiyun.wiki
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[wwwdageyunnet-hbr1]	id=[1]	domain=[https://www.dageyun.net]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://yingwuyun.top
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://xiaofeixia.me
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://chiguayun.org
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://laosijicc.top
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://home.caiyun.mom
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[apidagecloudcom-p9quk]	id=[1]	domain=[https://apidagecloud.com]
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[wwwstarlink9527xyz-qsn]	id=[1]	domain=[https://www.starlink9527.xyz]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://chiguayun.com
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://vpn.sudatech.store
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[bajieinfo-0gej]	id=[1]	domain=[https://bajie.info]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://zzz.youxuan.wiki
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://xianyuwangluo.top
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://chiguayun.net
+2025-04-03 03:30:20 airport.py [line:364] INFO: found free plan, domain: https://qingyun.zybs.eu.org, plan: Plan(plan_id=1, package='month_price', renew=True, reset=False, trafficflow=50)
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://5.44.251.106
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://sytcloud.top
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://haoba.cloud
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[bajiepw-u8a]	id=[1]	domain=[https://bajie.pw]
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[8rktxyz-3ky2f]	id=[1]	domain=[https://8rkt.xyz]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://sjy001.xyz
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://kuaiqiangshou.xyz
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[58rocketcom-5wj]	id=[1]	domain=[https://58rocket.com]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://www.dukadi.one
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://yihicloud.top
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://api.heima2u.com
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://guanwang.me
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: http://ov2rayo.top
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[apidashsptop-b45w]	id=[1]	domain=[https://api.dashsp.top]
+2025-04-03 03:30:20 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
+2025-04-03 03:30:20 airport.py [line:471] ERROR: cannot create temporary email account, site: https://www.susucloud.net
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[miaonaco-2girf]	id=[1]	domain=[https://miaona.co]
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://sanxijichang.com
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[miaonaorg-2w98]	id=[1]	domain=[https://miaona.org]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://api.shanhai.one
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: http://51.255.173.39
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://qianggewangluo.com
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://moluo.cloud
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[miaonaxyz-xp0]	id=[1]	domain=[https://miaona.xyz]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://liulangdiqiu.cc
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: http://nanbei.buzz
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: http://nanbei.cloud
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: http://www.paopao.dog
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[latiaoclub-5a6]	id=[1]	domain=[https://latiao.club]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://liangyuandian.club
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://rtx.al
+2025-04-03 03:30:20 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
+2025-04-03 03:30:20 airport.py [line:471] ERROR: cannot create temporary email account, site: https://store.kakocloud.pro
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[58sdnet-gtnr]	id=[1]	domain=[https://58sd.net]
+2025-04-03 03:30:20 airport.py [line:276] INFO: achieved max retry when register, domain: https://shuimu.site
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[latiaous-pqy]	id=[1]	domain=[https://latiao.us]
+2025-04-03 03:30:20 workflow.py [line:105] INFO: start fetch proxy: name=[latiaobuzz-e3og]	id=[1]	domain=[https://latiao.buzz]
+2025-04-03 03:30:20 airport.py [line:361] INFO: not exists free plan, domain: https://zqjc.org
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://bobapi.kkhhyytt.cn
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[gladosnetwork-jgmnw]	id=[1]	domain=[https://glados.network]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[gladosone-q84l3]	id=[1]	domain=[https://glados.one]
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: https://jk-cloud.net
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[bityunorg-rcth]	id=[1]	domain=[https://bityun.org]
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: https://www.hurricanerelay.net
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[bityunorg-fpb]	id=[1]	domain=[http://bityun.org]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[subchbjpwmobi-zahv]	id=[1]	domain=[http://sub.chbjpw.mobi]
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: https://www.gogocloud.cyou
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[www58mdsscom-b3dh]	id=[1]	domain=[https://www.58mdss.com]
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: http://subssr.xfxvpn.me
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: https://zhuiyun.top
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.jiasuniu.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[88catnetcom-6qach]	id=[1]	domain=[https://88catnet.com]
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: https://chuifengji.top
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://sq9xy6.cpminig.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[mdsscloud-p5cq]	id=[1]	domain=[https://mdss.cloud]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://v.cheerfun.dev
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[www99catnetcom-swc]	id=[1]	domain=[https://www.99catnet.com]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[gladosspace-9y6e]	id=[1]	domain=[https://glados.space]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[panelkeleofficialcom-n1cg]	id=[1]	domain=[https://panel.keleofficial.com]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[a02qytvipaffpro-dc3]	id=[1]	domain=[https://a02.qytvipaff.pro]
+2025-04-03 03:30:21 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
+2025-04-03 03:30:21 airport.py [line:471] ERROR: cannot create temporary email account, site: http://47.101.67.199:6699
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[fengwopro-l3mz]	id=[1]	domain=[https://fengwo.pro]
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: https://sidog.top
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://kedouair.top
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[akpyunlive-1dn]	id=[1]	domain=[https://a.kpyun.live]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[一家机场com-gr7w]	id=[1]	domain=[https://一家机场.com]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[悟空机场com-c4hr]	id=[1]	domain=[https://悟空机场.com]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.cantonx.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[appjingfanme-tjyq]	id=[1]	domain=[https://app.jingfan.me]
+2025-04-03 03:30:21 workflow.py [line:140] INFO: finished fetch proxy: name=[sub1pingboytop-f7noc]	username=[jKfVocI6nw8P@yahoo.com]	domain=[https://sub1.pingboy.top]	count=[11]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[巅峰机场com-dv9h]	id=[1]	domain=[https://巅峰机场.com]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[优惠机场com-15cp]	id=[1]	domain=[https://优惠机场.com]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://plinkc.top
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[五分机场live-ga3qs]	id=[1]	domain=[https://五分机场.live]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://悟空机场.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[便宜机场co-voz13]	id=[1]	domain=[https://便宜机场.co]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://tblack.xyz
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[appcloudogme-8603s]	id=[1]	domain=[https://app.cloudog.me]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://starlink.to
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[xn--wtq35pfyd55oco-ibo]	id=[1]	domain=[https://xn--wtq35pfyd55o.co]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://niercloud.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[xn--mes91t7ofgnwcom-6euk0]	id=[1]	domain=[https://xn--mes91t7ofgnw.com]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[xn--4oq11ryli3rgcom-jir]	id=[1]	domain=[https://xn--4oq11ryli3rg.com]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://xx-ai.io
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[wwwkuaidog006top-d2zb]	id=[1]	domain=[https://www.kuaidog006.top]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://一家机场.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[gy888xyz-3xbo]	id=[1]	domain=[https://gy888.xyz]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[gy777xyz-1ivyu]	id=[1]	domain=[https://gy777.xyz]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://wayen.eu
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[dobcloudcom-bi8nw]	id=[1]	domain=[https://dobcloud.com]
+2025-04-03 03:30:21 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[qingyunticc-lyjwn]	id=[1]	domain=[http://qingyunti.cc]
+2025-04-03 03:30:21 airport.py [line:471] ERROR: cannot create temporary email account, site: https://bt3.one
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[wwwhj522top-3aj7i]	id=[1]	domain=[https://www.hj522.top]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://巅峰机场.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[wwwhj521top-e3x1u]	id=[1]	domain=[https://www.hj521.top]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.9yuan.top
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[syniaoniaoco-rtw]	id=[1]	domain=[https://sy.niaoniao.co]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.starlink9527.xyz
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[pkqxlmplus-oea1u]	id=[1]	domain=[https://pkq.xlm.plus]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[wwwnaiunetcom-05fw]	id=[1]	domain=[https://www.naiunet.com]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://五分机场.live
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[mpddttop-0ct]	id=[1]	domain=[https://mpddt.top]
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: http://vyy.idsduf.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[fengcheyunxyz-sur]	id=[1]	domain=[https://fengcheyun.xyz]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[dashcatnetuk-zvto]	id=[1]	domain=[https://dash.catnet.uk]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://优惠机场.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[一个机场com-8hbjl]	id=[1]	domain=[https://一个机场.com]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[xn--4gqvd492adjrcom-gso]	id=[1]	domain=[https://xn--4gqvd492adjr.com]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[epclubxyz-n3x]	id=[1]	domain=[https://epclub.xyz]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[66yunlat-qbos]	id=[1]	domain=[https://66yun.lat]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://air.yoyoss.xyz
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[ylhq12top-5v7]	id=[1]	domain=[https://yl.hq12.top]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[myaqiqitop-ki2]	id=[1]	domain=[https://myaqiqi.top]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[myxiongaditop-3ly8f]	id=[1]	domain=[https://myxiongadi.top]
+2025-04-03 03:30:21 airport.py [line:361] INFO: not exists free plan, domain: https://fastestcloud.xyz
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[anydoorcloudnsch-7t5n]	id=[1]	domain=[https://anydoor.cloudns.ch]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://便宜机场.co
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[anydooreuorg-l9kn]	id=[1]	domain=[https://anydoor.eu.org]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[ansuyunxyz-hgt]	id=[1]	domain=[https://ansuyun.xyz]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[nyxenorg-v95]	id=[1]	domain=[https://nyxen.org]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.1655ss.com
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[moluofun-v9h]	id=[1]	domain=[https://moluo.fun]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://syq.tw
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[cainiao999top-e04by]	id=[1]	domain=[https://cainiao999.top]
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[www23800top-scd]	id=[1]	domain=[https://www.23800.top]
+2025-04-03 03:30:21 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.1365365.xyz
+2025-04-03 03:30:21 workflow.py [line:105] INFO: start fetch proxy: name=[inlookme-498jv]	id=[1]	domain=[https://inlook.me]
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://b.xiaow.cc
+2025-04-03 03:30:22 workflow.py [line:105] INFO: start fetch proxy: name=[w03qytweba07cc-ef49p]	id=[1]	domain=[https://w03.qytweba07.cc]
+2025-04-03 03:30:22 workflow.py [line:105] INFO: start fetch proxy: name=[fly-cloudtop-7ism]	id=[1]	domain=[https://fly-cloud.top]
+2025-04-03 03:30:22 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
+2025-04-03 03:30:22 airport.py [line:471] ERROR: cannot create temporary email account, site: https://neko.services
+2025-04-03 03:30:22 workflow.py [line:105] INFO: start fetch proxy: name=[666xnphfcn-s1h]	id=[1]	domain=[https://666.xnphf.cn]
+2025-04-03 03:30:22 airport.py [line:361] INFO: not exists free plan, domain: https://fengwo.pro
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.jingfan.me
+2025-04-03 03:30:22 workflow.py [line:105] INFO: start fetch proxy: name=[wwwvfastlife-3zmq]	id=[1]	domain=[https://www.vfast.life]
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://themeserver.cutecloudone.de
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.tencloud.net
+2025-04-03 03:30:22 workflow.py [line:105] INFO: start fetch proxy: name=[fxypw-9xl3a]	id=[1]	domain=[https://fxy.pw]
+2025-04-03 03:30:22 workflow.py [line:105] INFO: start fetch proxy: name=[fxyjsfun-k2m4]	id=[1]	domain=[https://fxyjs.fun]
+2025-04-03 03:30:22 airport.py [line:361] INFO: not exists free plan, domain: https://dgg.idsduf.com
+2025-04-03 03:30:22 workflow.py [line:105] INFO: start fetch proxy: name=[fqqcqatqytvipaffcc-nlqd]	id=[1]	domain=[https://fqqcqat.qytvipaff.cc]
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://一个机场.com
+2025-04-03 03:30:22 airport.py [line:361] INFO: not exists free plan, domain: https://terfghtll.dashuai.us
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://58sd.net
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://api.dashsp.top
+2025-04-03 03:30:22 airport.py [line:361] INFO: not exists free plan, domain: https://apidagecloud.com
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://bajie.info
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://fengcheyun.xyz
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.cloudog.me
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://planb.cat
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://dash.catnet.uk
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://air.misakano.eu.org
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://mdss.cloud
+2025-04-03 03:30:22 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://qingyun.zybs.eu.org
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.58mdss.com
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://bajie.pw
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--mes91t7ofgnw.com
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://latiao.club
+2025-04-03 03:30:22 workflow.py [line:140] INFO: finished fetch proxy: name=[544251106-k9v]	username=[RFGy8HVroc@msn.com]	domain=[https://5.44.251.106]	count=[21]
+2025-04-03 03:30:22 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
+2025-04-03 03:30:22 airport.py [line:471] ERROR: cannot create temporary email account, site: https://mianmd.ninja
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://bityun.org
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: http://bityun.org
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://miaona.org
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://miaona.co
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://ssr.giize.com
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://latiao.us
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.naiunet.com
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://vpn.gunyoung.top
+2025-04-03 03:30:22 workflow.py [line:140] INFO: finished fetch proxy: name=[apiheima2ucom-vpa]	username=[P9h1BNMJ@live.com]	domain=[https://api.heima2u.com]	count=[18]
+2025-04-03 03:30:22 airport.py [line:361] INFO: not exists free plan, domain: https://91yun.buzz
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://miaona.xyz
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://latiao.buzz
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://panel.keleofficial.com
+2025-04-03 03:30:22 airport.py [line:361] INFO: not exists free plan, domain: https://dashuai.us
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--4oq11ryli3rg.com
+2025-04-03 03:30:22 workflow.py [line:140] INFO: finished fetch proxy: name=[5125517339-p8ce]	username=[zjJLmDPA32XnN@yahoo.com]	domain=[http://51.255.173.39]	count=[41]
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: https://88catnet.com
+2025-04-03 03:30:22 airport.py [line:276] INFO: achieved max retry when register, domain: http://onefall.top
+2025-04-03 03:30:22 airport.py [line:361] INFO: not exists free plan, domain: https://cmy.ewwnu.cn
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://ktmcloud.link
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--wtq35pfyd55o.co
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://tcity8.top
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--4gqvd492adjr.com
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.99catnet.com
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://mpddt.top
+2025-04-03 03:30:23 workflow.py [line:140] INFO: finished fetch proxy: name=[apishanhaione-6eqdg]	username=[wXl3MzBNYRDKbiu0@gmail.com]	domain=[https://api.shanhai.one]	count=[1]
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: http://sub.chbjpw.mobi
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://fxy.pw
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://ansuyun.xyz
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://cainiao999.top
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: http://17yxyy.cc
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://66yun.lat
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://moluo.fun
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://www.23800.top
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://fly-cloud.top
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://w03.qytweba07.cc
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://dobcloud.com
+2025-04-03 03:30:23 airport.py [line:276] INFO: achieved max retry when register, domain: https://client.3i.lol
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://a02.qytvipaff.pro
+2025-04-03 03:30:23 airport.py [line:361] INFO: not exists free plan, domain: https://sy.niaoniao.co
+2025-04-03 03:30:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://nyxen.org
+2025-04-03 03:30:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://haitunyun1.cfd
+2025-04-03 03:30:24 mailtm.py [line:474] ERROR: [MailTMError] failed to create temporary email, domain: https://api.mail.tm
+2025-04-03 03:30:24 airport.py [line:471] ERROR: cannot create temporary email account, site: https://anydoor.eu.org
+2025-04-03 03:30:24 airport.py [line:361] INFO: not exists free plan, domain: https://www.dageyun.net
+2025-04-03 03:30:24 renewal.py [line:456] ERROR: fetch free plans error, cookies and authorization is empty, domain: https://glados.network
+2025-04-03 03:30:24 airport.py [line:361] INFO: not exists free plan, domain: https://glados.network
+2025-04-03 03:30:24 renewal.py [line:554] ERROR: query subscribe information error, cookies and authorization is empty, domain: https://glados.network
+2025-04-03 03:30:24 airport.py [line:335] ERROR: [RegisterError] cannot get token when register, domain: https://glados.network
+2025-04-03 03:30:24 renewal.py [line:456] ERROR: fetch free plans error, cookies and authorization is empty, domain: https://glados.space
+2025-04-03 03:30:24 airport.py [line:361] INFO: not exists free plan, domain: https://glados.space
+2025-04-03 03:30:24 renewal.py [line:554] ERROR: query subscribe information error, cookies and authorization is empty, domain: https://glados.space
+2025-04-03 03:30:24 airport.py [line:335] ERROR: [RegisterError] cannot get token when register, domain: https://glados.space
+2025-04-03 03:30:24 renewal.py [line:456] ERROR: fetch free plans error, cookies and authorization is empty, domain: https://glados.one
+2025-04-03 03:30:24 airport.py [line:361] INFO: not exists free plan, domain: https://glados.one
+2025-04-03 03:30:24 renewal.py [line:554] ERROR: query subscribe information error, cookies and authorization is empty, domain: https://glados.one
+2025-04-03 03:30:24 airport.py [line:335] ERROR: [RegisterError] cannot get token when register, domain: https://glados.one
+2025-04-03 03:30:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://xingcloud.pwzvd.cn
+2025-04-03 03:30:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://leflycloud.com
+2025-04-03 03:30:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://xmfwww.cc
+2025-04-03 03:30:24 airport.py [line:361] INFO: not exists free plan, domain: https://pkq.xlm.plus
+2025-04-03 03:30:24 renewal.py [line:607] ERROR: cannot get subscribe information, domain: https://a02.qytvipaff.pro, response: <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -760,94 +767,47 @@
 </body>
 </html>
 
-2025-04-02 03:31:28 airport.py [line:361] INFO: not exists free plan, domain: https://w03.qytweba07.cc
-2025-04-02 03:31:28 airport.py [line:361] INFO: not exists free plan, domain: https://www.dageyun.net
-2025-04-02 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: http://network2.magic-in-china.com
-2025-04-02 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://haitunyun2.cfd
-2025-04-02 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--4gqvd492adjr.com
-2025-04-02 03:31:28 airport.py [line:361] INFO: not exists free plan, domain: https://nyxen.org
-2025-04-02 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://portal.buddhajumpsoverthewall.com
-2025-04-02 03:31:28 workflow.py [line:140] INFO: finished fetch proxy: name=[www23800top-g2l]	username=[MIZ3jAyDlvH6@sina.com]	domain=[https://www.23800.top]	count=[14]
-2025-04-02 03:31:28 renewal.py [line:607] ERROR: cannot get subscribe information, domain: https://w03.qytweba07.cc, response: <!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <title>访问提示</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .container {
-            background-color: #ffffff;
-            padding: 40px;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        h1 {
-            color: #333333;
-        }
-        p {
-            color: #555555;
-            margin: 20px 0;
-        }
-        a.button {
-            display: inline-block;
-            padding: 12px 24px;
-            background-color: #007BFF;
-            color: #ffffff;
-            text-decoration: none;
-            border-radius: 4px;
-            transition: background-color 0.3s ease;
-        }
-        a.button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>欢迎访问！</h1>
-        <p>要打开网站，请点击下方按钮。</p>
-        <a href="https://qytnody.qingyunti.cc" class="button">点击前往官网</a>
-    </div>
-</body>
-</html>
-
-2025-04-02 03:31:29 airport.py [line:361] INFO: not exists free plan, domain: https://58rocket.com
-2025-04-02 03:31:29 airport.py [line:361] INFO: not exists free plan, domain: https://8rkt.xyz
-2025-04-02 03:31:29 workflow.py [line:140] INFO: finished fetch proxy: name=[terfghtlldashuaius-g26h]	username=[JLhAwKx9CQ@qq.com]	domain=[https://terfghtll.dashuai.us]	count=[30]
-2025-04-02 03:31:29 airport.py [line:361] INFO: not exists free plan, domain: https://inlook.me
-2025-04-02 03:31:29 airport.py [line:361] INFO: not exists free plan, domain: https://a.kpyun.live
-2025-04-02 03:31:29 workflow.py [line:140] INFO: finished fetch proxy: name=[xueyejiasucom-lqpjs]	username=[tJqeEBslQ7h@yahoo.com]	domain=[https://xueyejiasu.com]	count=[12]
-2025-04-02 03:31:29 airport.py [line:782] INFO: subconverter completed, artifact: [a02qytvipaffpro-eorj-wu5]	success=[False]
-2025-04-02 03:31:30 airport.py [line:364] INFO: found free plan, domain: https://ch.cukug.website, plan: Plan(plan_id=1, package='month_price', renew=True, reset=False, trafficflow=1000)
-2025-04-02 03:31:30 workflow.py [line:140] INFO: finished fetch proxy: name=[dashuaius-jsq]	username=[BkAKqLHN5GfFu8m@foxmail.com]	domain=[https://dashuai.us]	count=[30]
-2025-04-02 03:31:30 airport.py [line:276] INFO: achieved max retry when register, domain: http://qingyunti.cc
-2025-04-02 03:31:30 airport.py [line:782] INFO: subconverter completed, artifact: [w03qytweba07cc-l76-JpU]	success=[False]
-2025-04-02 03:31:30 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://www.kuaidog006.top
-2025-04-02 03:31:30 airport.py [line:276] INFO: achieved max retry when register, domain: https://yl.hq12.top
-2025-04-02 03:31:30 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.hj522.top
-2025-04-02 03:31:31 airport.py [line:361] INFO: not exists free plan, domain: https://www.susucloud.net
-2025-04-02 03:31:31 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.hj521.top
-2025-04-02 03:31:34 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://ch.cukug.website
-2025-04-02 03:31:35 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://ch.louwangzhiyu.xyz
-2025-04-02 03:31:38 workflow.py [line:140] INFO: finished fetch proxy: name=[chcukugwebsite-frwj4]	username=[Rgc1PbCV9Jd5@live.com]	domain=[https://ch.cukug.website]	count=[15]
-2025-04-02 03:31:38 workflow.py [line:140] INFO: finished fetch proxy: name=[chlouwangzhiyuxyz-8qa]	username=[7tAkDf8vjCGx4B@icloud.com]	domain=[https://ch.louwangzhiyu.xyz]	count=[15]
-2025-04-02 03:31:46 airport.py [line:276] INFO: achieved max retry when register, domain: https://lanmaoyun.icu
-2025-04-02 03:31:47 airport.py [line:276] INFO: achieved max retry when register, domain: https://epclub.xyz
-2025-04-02 03:32:32 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.jisuba.live
-2025-04-02 03:32:32 airport.py [line:276] INFO: achieved max retry when register, domain: https://console.veseai.com
-2025-04-02 03:33:23 airport.py [line:488] ERROR: receiving mail timeout, site: https://abc.noseisei.com, address: https://www.moakt.com/zh, email: md2xbu@tmpmail.org
-2025-04-02 03:33:23 airport.py [line:488] ERROR: receiving mail timeout, site: https://panel.moku.pro, address: https://www.moakt.com/zh, email: d7xzog0@bareed.ws
-2025-04-02 03:33:23 airport.py [line:488] ERROR: receiving mail timeout, site: https://iii1.caty.moe, address: https://www.moakt.com/zh, email: b5b2ng7owyt@tmpmail.org
-2025-04-02 03:33:24 airport.py [line:488] ERROR: receiving mail timeout, site: https://bt3.one, address: https://www.moakt.com/zh, email: jf0mhrkps@teml.net
-2025-04-02 03:33:24 airport.py [line:488] ERROR: receiving mail timeout, site: https://54fxp.xyz, address: https://www.moakt.com/zh, email: uls4bh@moakt.cc
-2025-04-02 03:33:27 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [executewrapper] finished, count: 261, cost: 125.19s
-2025-04-02 03:33:27 collect.py [line:384] INFO: found 206 proxies, save it to ['/home/runner/work/Mo_jichang_list/Mo_jichang_list/data/clash.yaml', '/home/runner/work/Mo_jichang_list/Mo_jichang_list/data/v2ray.txt']
+2025-04-03 03:30:24 workflow.py [line:140] INFO: finished fetch proxy: name=[www23800top-scd]	username=[ElRBeGUhV@hotmail.com]	domain=[https://www.23800.top]	count=[14]
+2025-04-03 03:30:24 airport.py [line:276] INFO: achieved max retry when register, domain: https://haitunyun2.cfd
+2025-04-03 03:30:24 workflow.py [line:140] INFO: finished fetch proxy: name=[subssrxfxvpnme-g7s]	username=[O8XNZUW17Rd@yahoo.com]	domain=[http://subssr.xfxvpn.me]	count=[24]
+2025-04-03 03:30:25 airport.py [line:361] INFO: not exists free plan, domain: https://58rocket.com
+2025-04-03 03:30:25 airport.py [line:361] INFO: not exists free plan, domain: https://8rkt.xyz
+2025-04-03 03:30:25 airport.py [line:361] INFO: not exists free plan, domain: https://fxyjs.fun
+2025-04-03 03:30:25 airport.py [line:276] INFO: achieved max retry when register, domain: https://portal.buddhajumpsoverthewall.com
+2025-04-03 03:30:25 workflow.py [line:140] INFO: finished fetch proxy: name=[dobcloudcom-bi8nw]	username=[gM0ZcFB46Xt7qDAJ@yahoo.com]	domain=[https://dobcloud.com]	count=[2]
+2025-04-03 03:30:25 airport.py [line:361] INFO: not exists free plan, domain: https://inlook.me
+2025-04-03 03:30:25 airport.py [line:361] INFO: not exists free plan, domain: https://666.xnphf.cn
+2025-04-03 03:30:25 airport.py [line:782] INFO: subconverter completed, artifact: [a02qytvipaffpro-dc3-tHR]	success=[False]
+2025-04-03 03:30:26 airport.py [line:276] INFO: achieved max retry when register, domain: http://network2.magic-in-china.com
+2025-04-03 03:30:26 workflow.py [line:140] INFO: finished fetch proxy: name=[terfghtlldashuaius-v3b]	username=[r5Mckypj0Z7P@yahoo.com]	domain=[https://terfghtll.dashuai.us]	count=[30]
+2025-04-03 03:30:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.hj522.top
+2025-04-03 03:30:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://yl.hq12.top
+2025-04-03 03:30:26 airport.py [line:276] INFO: achieved max retry when register, domain: https://www.hj521.top
+2025-04-03 03:30:26 workflow.py [line:140] INFO: finished fetch proxy: name=[dashuaius-h4i]	username=[OxfoSpmgcXT5@163.com]	domain=[https://dashuai.us]	count=[30]
+2025-04-03 03:30:26 airport.py [line:361] INFO: not exists free plan, domain: https://a.kpyun.live
+2025-04-03 03:30:27 airport.py [line:364] INFO: found free plan, domain: https://www.kuaidog006.top, plan: Plan(plan_id=12, package='month_price', renew=True, reset=False, trafficflow=100)
+2025-04-03 03:30:27 airport.py [line:276] INFO: achieved max retry when register, domain: http://qingyunti.cc
+2025-04-03 03:30:28 airport.py [line:361] INFO: not exists free plan, domain: https://xueyejiasu.com
+2025-04-03 03:30:28 airport.py [line:361] INFO: not exists free plan, domain: https://www.vfast.life
+2025-04-03 03:30:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://fqqcqat.qytvipaff.cc
+2025-04-03 03:30:29 airport.py [line:364] INFO: found free plan, domain: https://ch.cukug.website, plan: Plan(plan_id=1, package='month_price', renew=True, reset=False, trafficflow=1000)
+2025-04-03 03:30:29 airport.py [line:364] INFO: found free plan, domain: https://ch.louwangzhiyu.xyz, plan: Plan(plan_id=1, package='month_price', renew=True, reset=False, trafficflow=1000)
+2025-04-03 03:30:31 workflow.py [line:140] INFO: finished fetch proxy: name=[wwwvfastlife-3zmq]	username=[UcukFzTM6@hotmail.com]	domain=[https://www.vfast.life]	count=[24]
+2025-04-03 03:30:35 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://www.kuaidog006.top
+2025-04-03 03:30:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://epclub.xyz
+2025-04-03 03:30:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://lanmaoyun.icu
+2025-04-03 03:30:42 workflow.py [line:140] INFO: finished fetch proxy: name=[xueyejiasucom-fez]	username=[JzhIV8q5W@foxmail.com]	domain=[https://xueyejiasu.com]	count=[12]
+2025-04-03 03:30:47 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://ch.louwangzhiyu.xyz
+2025-04-03 03:30:48 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://ch.cukug.website
+2025-04-03 03:30:51 workflow.py [line:140] INFO: finished fetch proxy: name=[chlouwangzhiyuxyz-tmb]	username=[yGrCnlaX@qq.com]	domain=[https://ch.louwangzhiyu.xyz]	count=[13]
+2025-04-03 03:30:51 workflow.py [line:140] INFO: finished fetch proxy: name=[chcukugwebsite-jvrl]	username=[hHIvTsLXDJ9W@gmail.com]	domain=[https://ch.cukug.website]	count=[13]
+2025-04-03 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.jisuba.live
+2025-04-03 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://console.veseai.com
+2025-04-03 03:31:28 airport.py [line:276] INFO: achieved max retry when register, domain: https://iii1.caty.moe
+2025-04-03 03:32:19 airport.py [line:488] ERROR: receiving mail timeout, site: https://abc.noseisei.com, address: https://www.moakt.com/zh, email: zry3qfsalu@moakt.co
+2025-04-03 03:32:20 airport.py [line:488] ERROR: receiving mail timeout, site: https://xyz.noseisei.com, address: https://api.mail.tm, email: hfdutias2mju@ptct.net
+2025-04-03 03:32:20 airport.py [line:488] ERROR: receiving mail timeout, site: https://54fxp.xyz, address: https://www.moakt.com/zh, email: k9gb2pxe8e@disbox.net
+2025-04-03 03:32:21 airport.py [line:488] ERROR: receiving mail timeout, site: https://www.wkyun1688.com, address: https://www.moakt.com/zh, email: pr7v2y@tmpmail.net
+2025-04-03 03:32:21 airport.py [line:488] ERROR: receiving mail timeout, site: https://panel.moku.pro, address: https://api.mail.tm, email: d9ckvh5g8@ptct.net
+2025-04-03 03:32:24 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [executewrapper] finished, count: 267, cost: 126.18s
+2025-04-03 03:32:24 collect.py [line:384] INFO: found 225 proxies, save it to ['/home/runner/work/Mo_jichang_list/Mo_jichang_list/data/clash.yaml', '/home/runner/work/Mo_jichang_list/Mo_jichang_list/data/v2ray.txt']
